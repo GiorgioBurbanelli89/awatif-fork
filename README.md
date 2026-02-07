@@ -1,44 +1,71 @@
 # Awatif Fork
 
-> **This is a fork of [Awatif](https://github.com/madil4/awatif) by Mohamed Adil**
->
-> Original repository: https://github.com/madil4/awatif
->
-> This fork includes modifications for integration with [Hekatan Calc](https://github.com/GiorgioBurbanelli89/hekatan), adding modal/spectral analysis and NEC-SE-DS seismic code support.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Fork](https://img.shields.io/badge/fork%20of-Awatif-green.svg)](https://github.com/madil4/awatif)
 
 ---
 
-Awatif.co helps you build parametric structural engineering apps that run on the web or offline, featuring real-time FEM analysis and design. 
+## 🔱 About This Project
 
-- For more information, check our website: https://awatif.co/
+**This is a fork of [Awatif](https://github.com/madil4/awatif) by [Mohamed Adil](https://github.com/madil4)**
+
+| | |
+|---|---|
+| **Original Repository** | https://github.com/madil4/awatif |
+| **Original Author** | Mohamed Adil |
+| **License** | MIT |
+| **Website** | https://awatif.co/ |
+
+This fork includes modifications for integration with [Hekatan Calc](https://github.com/GiorgioBurbanelli89/hekatan).
+
+---
+
+## ✨ Fork Additions
+
+- **Modal Analysis**: Eigenvalue solver for natural frequencies and mode shapes
+- **Response Spectrum Analysis**: NEC-SE-DS Ecuador seismic code
+- **Time History Analysis**: Dynamic response to earthquake records
+- **Mass Matrix**: Consistent and lumped mass formulations
+- **Diaphragm Analysis**: Rigid and flexible diaphragm support
+
+---
+
+Awatif.co helps you build parametric structural engineering apps that run on the web or offline, featuring real-time FEM analysis and design.
+
+- For more information, check the original website: https://awatif.co/
 - To understand the vision, watch this video: https://www.youtube.com/watch?v=QkoFJGfD7rc
 - To understand the architecture, watch this video: https://www.youtube.com/watch?v=4NdFQGouIjU
 
 ## Getting Started
-To get started with Awatif, follow these steps:
+
+To get started with this fork:
 ```bash
-git clone https://github.com/madil4/awatif.git
-cd awatif
+git clone https://github.com/GiorgioBurbanelli89/awatif-fork.git
+cd awatif-fork
 npm install
 npm run dev:examples
 ```
-The default example will open in your browser. To view a different example, change the URL accordingly.
+
+For the original Awatif, visit: https://github.com/madil4/awatif
 
 ## Roadmap
+
+### Original Awatif Features
 - [x] FEM: Bar & beam elements [Example](https://awatif.co/examples/1d-mesh/)
 - [x] FEM: Plate & shell elements [Example](https://awatif.co/examples/plate/)
 - [x] FEM: Static simulations [Example](https://awatif.co/examples/3d-structure/)
-- [ ] FEM: Dynamic simulations
-- [ ] FEM: Nonlinear analysis
 - [x] FEM: Meshing [Example](https://awatif.co/examples/2d-mesh/)
-- [ ] Design: Member checks (coming soon)
-- [ ] Design: Connection checks
 - [x] UI: Tabular editing [Example](https://awatif.co/examples/tables/)
 - [x] UI: Drawing [Example](https://awatif.co/examples/drawing/)
 - [x] UI: Reporting [Example](https://awatif.co/examples/report/)
-- [ ] UI: Element selection
 - [x] Structural Systems: Truss design [Example](https://awatif.co/examples/advanced-truss/)
-- [ ] Structural Systems: Slab Design (coming soon)
+
+### Fork Additions
+- [x] FEM: Modal analysis (eigenvalues/eigenvectors)
+- [x] FEM: Response spectrum analysis (NEC-SE-DS)
+- [x] FEM: Time history analysis
+- [ ] FEM: P-Delta effects
+- [ ] FEM: Nonlinear analysis
 
 ## Stack 
 1. **VanJS**: for handling reactive state [Docs](https://vanjs.org/)
