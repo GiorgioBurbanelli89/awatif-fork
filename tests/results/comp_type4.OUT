@@ -1,0 +1,23 @@
+
+
+ SAP2000 v24.1.0 Ultimate 64-bit (Analysis Build 9917/64)                       
+ File: C:\Users\j-b-j\Document...7.5.7\awatif-2.0.0\tests\results\comp_type4.OUT
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1 TO       8    A   A   -   A   A   A
+       9 TO      13    A   A   A   A   A   A
+      14 TO      15    A   A   -   A   A   A
+      16 TO      20    A   A   A   A   A   A
+      21 TO      22    A   A   -   A   A   A
+      23 TO      27    A   A   A   A   A   A
+      28 TO      35    A   A   -   A   A   A

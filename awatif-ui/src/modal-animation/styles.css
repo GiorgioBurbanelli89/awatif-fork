@@ -1,0 +1,65 @@
+/* Modal Animation Controls */
+#modal-animation-controls {
+  position: absolute;
+  top: 60px;
+  right: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 15px;
+  border-radius: 8px;
+  color: white;
+  font-family: monospace;
+  font-size: 12px;
+  z-index: 100;
+  min-width: 220px;
+}
+
+#modal-animation-controls label {
+  display: inline-block;
+  width: 50px;
+  margin: 5px 0;
+}
+
+#modal-animation-controls select {
+  background: #333;
+  color: white;
+  border: 1px solid #555;
+  padding: 4px 8px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+
+#modal-animation-controls button {
+  background: #4a9eff;
+  color: white;
+  border: none;
+  padding: 6px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+#modal-animation-controls button:hover {
+  background: #3a8eef;
+}
+
+#modal-animation-controls input[type="range"] {
+  width: 100px;
+  margin: 0 10px;
+  vertical-align: middle;
+}
+
+#modal-animation-controls span {
+  display: inline-block;
+  width: 40px;
+  text-align: right;
+}
+
+#freq-display {
+  display: block !important;
+  width: auto !important;
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #444;
+  color: #4a9eff;
+  font-weight: bold;
+}

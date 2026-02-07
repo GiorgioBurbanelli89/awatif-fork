@@ -1,0 +1,1873 @@
+File C:\Users\j-b-j\Documents\Calcpad-7.5.7\awatif-2.0.0\tests\results\malla_24x16.$2k was saved on m/d/yy at h:mm:ss
+ 
+TABLE:  "ACTIVE DEGREES OF FREEDOM"
+   UX=Yes   UY=Yes   UZ=Yes   RX=Yes   RY=Yes   RZ=Yes
+ 
+TABLE:  "ANALYSIS OPTIONS"
+   Solver=Advanced   SolverProc=Auto   Force32Bit=No   StiffCase=None   GeomMod=None   HingeOpt="In Elements"   NumAThreads=0   MaxFileSize=0   NumDThreads=0   NumRThreads=0   UseMMFiles="Program Determined"   AllowDiff=No
+ 
+TABLE:  "AREA LOADS - UNIFORM"
+   Area=A1   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A2   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A3   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A4   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A5   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A6   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A7   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A8   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A9   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A10   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A11   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A12   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A13   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A14   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A15   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A16   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A17   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A18   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A19   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A20   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A21   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A22   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A23   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A24   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A25   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A26   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A27   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A28   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A29   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A30   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A31   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A32   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A33   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A34   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A35   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A36   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A37   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A38   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A39   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A40   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A41   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A42   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A43   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A44   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A45   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A46   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A47   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A48   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A49   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A50   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A51   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A52   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A53   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A54   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A55   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A56   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A57   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A58   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A59   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A60   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A61   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A62   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A63   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A64   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A65   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A66   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A67   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A68   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A69   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A70   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A71   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A72   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A73   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A74   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A75   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A76   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A77   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A78   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A79   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A80   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A81   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A82   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A83   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A84   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A85   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A86   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A87   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A88   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A89   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A90   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A91   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A92   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A93   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A94   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A95   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A96   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A97   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A98   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A99   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A100   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A101   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A102   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A103   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A104   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A105   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A106   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A107   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A108   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A109   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A110   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A111   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A112   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A113   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A114   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A115   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A116   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A117   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A118   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A119   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A120   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A121   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A122   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A123   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A124   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A125   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A126   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A127   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A128   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A129   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A130   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A131   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A132   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A133   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A134   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A135   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A136   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A137   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A138   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A139   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A140   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A141   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A142   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A143   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A144   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A145   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A146   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A147   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A148   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A149   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A150   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A151   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A152   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A153   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A154   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A155   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A156   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A157   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A158   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A159   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A160   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A161   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A162   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A163   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A164   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A165   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A166   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A167   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A168   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A169   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A170   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A171   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A172   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A173   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A174   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A175   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A176   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A177   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A178   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A179   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A180   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A181   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A182   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A183   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A184   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A185   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A186   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A187   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A188   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A189   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A190   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A191   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A192   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A193   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A194   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A195   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A196   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A197   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A198   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A199   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A200   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A201   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A202   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A203   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A204   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A205   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A206   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A207   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A208   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A209   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A210   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A211   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A212   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A213   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A214   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A215   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A216   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A217   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A218   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A219   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A220   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A221   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A222   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A223   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A224   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A225   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A226   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A227   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A228   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A229   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A230   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A231   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A232   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A233   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A234   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A235   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A236   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A237   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A238   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A239   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A240   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A241   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A242   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A243   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A244   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A245   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A246   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A247   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A248   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A249   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A250   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A251   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A252   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A253   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A254   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A255   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A256   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A257   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A258   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A259   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A260   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A261   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A262   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A263   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A264   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A265   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A266   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A267   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A268   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A269   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A270   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A271   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A272   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A273   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A274   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A275   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A276   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A277   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A278   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A279   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A280   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A281   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A282   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A283   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A284   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A285   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A286   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A287   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A288   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A289   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A290   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A291   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A292   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A293   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A294   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A295   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A296   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A297   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A298   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A299   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A300   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A301   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A302   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A303   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A304   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A305   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A306   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A307   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A308   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A309   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A310   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A311   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A312   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A313   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A314   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A315   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A316   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A317   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A318   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A319   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A320   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A321   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A322   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A323   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A324   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A325   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A326   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A327   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A328   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A329   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A330   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A331   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A332   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A333   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A334   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A335   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A336   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A337   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A338   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A339   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A340   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A341   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A342   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A343   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A344   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A345   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A346   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A347   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A348   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A349   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A350   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A351   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A352   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A353   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A354   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A355   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A356   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A357   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A358   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A359   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A360   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A361   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A362   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A363   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A364   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A365   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A366   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A367   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A368   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A369   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A370   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A371   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A372   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A373   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A374   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A375   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A376   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A377   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A378   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A379   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A380   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A381   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A382   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A383   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+   Area=A384   LoadPat=CARGA   CoordSys=Local   Dir=3   UnifLoad=-10
+ 
+TABLE:  "AREA SECTION ASSIGNMENTS"
+   Area=A1   Section=PLACA   MatProp=Default
+   Area=A2   Section=PLACA   MatProp=Default
+   Area=A3   Section=PLACA   MatProp=Default
+   Area=A4   Section=PLACA   MatProp=Default
+   Area=A5   Section=PLACA   MatProp=Default
+   Area=A6   Section=PLACA   MatProp=Default
+   Area=A7   Section=PLACA   MatProp=Default
+   Area=A8   Section=PLACA   MatProp=Default
+   Area=A9   Section=PLACA   MatProp=Default
+   Area=A10   Section=PLACA   MatProp=Default
+   Area=A11   Section=PLACA   MatProp=Default
+   Area=A12   Section=PLACA   MatProp=Default
+   Area=A13   Section=PLACA   MatProp=Default
+   Area=A14   Section=PLACA   MatProp=Default
+   Area=A15   Section=PLACA   MatProp=Default
+   Area=A16   Section=PLACA   MatProp=Default
+   Area=A17   Section=PLACA   MatProp=Default
+   Area=A18   Section=PLACA   MatProp=Default
+   Area=A19   Section=PLACA   MatProp=Default
+   Area=A20   Section=PLACA   MatProp=Default
+   Area=A21   Section=PLACA   MatProp=Default
+   Area=A22   Section=PLACA   MatProp=Default
+   Area=A23   Section=PLACA   MatProp=Default
+   Area=A24   Section=PLACA   MatProp=Default
+   Area=A25   Section=PLACA   MatProp=Default
+   Area=A26   Section=PLACA   MatProp=Default
+   Area=A27   Section=PLACA   MatProp=Default
+   Area=A28   Section=PLACA   MatProp=Default
+   Area=A29   Section=PLACA   MatProp=Default
+   Area=A30   Section=PLACA   MatProp=Default
+   Area=A31   Section=PLACA   MatProp=Default
+   Area=A32   Section=PLACA   MatProp=Default
+   Area=A33   Section=PLACA   MatProp=Default
+   Area=A34   Section=PLACA   MatProp=Default
+   Area=A35   Section=PLACA   MatProp=Default
+   Area=A36   Section=PLACA   MatProp=Default
+   Area=A37   Section=PLACA   MatProp=Default
+   Area=A38   Section=PLACA   MatProp=Default
+   Area=A39   Section=PLACA   MatProp=Default
+   Area=A40   Section=PLACA   MatProp=Default
+   Area=A41   Section=PLACA   MatProp=Default
+   Area=A42   Section=PLACA   MatProp=Default
+   Area=A43   Section=PLACA   MatProp=Default
+   Area=A44   Section=PLACA   MatProp=Default
+   Area=A45   Section=PLACA   MatProp=Default
+   Area=A46   Section=PLACA   MatProp=Default
+   Area=A47   Section=PLACA   MatProp=Default
+   Area=A48   Section=PLACA   MatProp=Default
+   Area=A49   Section=PLACA   MatProp=Default
+   Area=A50   Section=PLACA   MatProp=Default
+   Area=A51   Section=PLACA   MatProp=Default
+   Area=A52   Section=PLACA   MatProp=Default
+   Area=A53   Section=PLACA   MatProp=Default
+   Area=A54   Section=PLACA   MatProp=Default
+   Area=A55   Section=PLACA   MatProp=Default
+   Area=A56   Section=PLACA   MatProp=Default
+   Area=A57   Section=PLACA   MatProp=Default
+   Area=A58   Section=PLACA   MatProp=Default
+   Area=A59   Section=PLACA   MatProp=Default
+   Area=A60   Section=PLACA   MatProp=Default
+   Area=A61   Section=PLACA   MatProp=Default
+   Area=A62   Section=PLACA   MatProp=Default
+   Area=A63   Section=PLACA   MatProp=Default
+   Area=A64   Section=PLACA   MatProp=Default
+   Area=A65   Section=PLACA   MatProp=Default
+   Area=A66   Section=PLACA   MatProp=Default
+   Area=A67   Section=PLACA   MatProp=Default
+   Area=A68   Section=PLACA   MatProp=Default
+   Area=A69   Section=PLACA   MatProp=Default
+   Area=A70   Section=PLACA   MatProp=Default
+   Area=A71   Section=PLACA   MatProp=Default
+   Area=A72   Section=PLACA   MatProp=Default
+   Area=A73   Section=PLACA   MatProp=Default
+   Area=A74   Section=PLACA   MatProp=Default
+   Area=A75   Section=PLACA   MatProp=Default
+   Area=A76   Section=PLACA   MatProp=Default
+   Area=A77   Section=PLACA   MatProp=Default
+   Area=A78   Section=PLACA   MatProp=Default
+   Area=A79   Section=PLACA   MatProp=Default
+   Area=A80   Section=PLACA   MatProp=Default
+   Area=A81   Section=PLACA   MatProp=Default
+   Area=A82   Section=PLACA   MatProp=Default
+   Area=A83   Section=PLACA   MatProp=Default
+   Area=A84   Section=PLACA   MatProp=Default
+   Area=A85   Section=PLACA   MatProp=Default
+   Area=A86   Section=PLACA   MatProp=Default
+   Area=A87   Section=PLACA   MatProp=Default
+   Area=A88   Section=PLACA   MatProp=Default
+   Area=A89   Section=PLACA   MatProp=Default
+   Area=A90   Section=PLACA   MatProp=Default
+   Area=A91   Section=PLACA   MatProp=Default
+   Area=A92   Section=PLACA   MatProp=Default
+   Area=A93   Section=PLACA   MatProp=Default
+   Area=A94   Section=PLACA   MatProp=Default
+   Area=A95   Section=PLACA   MatProp=Default
+   Area=A96   Section=PLACA   MatProp=Default
+   Area=A97   Section=PLACA   MatProp=Default
+   Area=A98   Section=PLACA   MatProp=Default
+   Area=A99   Section=PLACA   MatProp=Default
+   Area=A100   Section=PLACA   MatProp=Default
+   Area=A101   Section=PLACA   MatProp=Default
+   Area=A102   Section=PLACA   MatProp=Default
+   Area=A103   Section=PLACA   MatProp=Default
+   Area=A104   Section=PLACA   MatProp=Default
+   Area=A105   Section=PLACA   MatProp=Default
+   Area=A106   Section=PLACA   MatProp=Default
+   Area=A107   Section=PLACA   MatProp=Default
+   Area=A108   Section=PLACA   MatProp=Default
+   Area=A109   Section=PLACA   MatProp=Default
+   Area=A110   Section=PLACA   MatProp=Default
+   Area=A111   Section=PLACA   MatProp=Default
+   Area=A112   Section=PLACA   MatProp=Default
+   Area=A113   Section=PLACA   MatProp=Default
+   Area=A114   Section=PLACA   MatProp=Default
+   Area=A115   Section=PLACA   MatProp=Default
+   Area=A116   Section=PLACA   MatProp=Default
+   Area=A117   Section=PLACA   MatProp=Default
+   Area=A118   Section=PLACA   MatProp=Default
+   Area=A119   Section=PLACA   MatProp=Default
+   Area=A120   Section=PLACA   MatProp=Default
+   Area=A121   Section=PLACA   MatProp=Default
+   Area=A122   Section=PLACA   MatProp=Default
+   Area=A123   Section=PLACA   MatProp=Default
+   Area=A124   Section=PLACA   MatProp=Default
+   Area=A125   Section=PLACA   MatProp=Default
+   Area=A126   Section=PLACA   MatProp=Default
+   Area=A127   Section=PLACA   MatProp=Default
+   Area=A128   Section=PLACA   MatProp=Default
+   Area=A129   Section=PLACA   MatProp=Default
+   Area=A130   Section=PLACA   MatProp=Default
+   Area=A131   Section=PLACA   MatProp=Default
+   Area=A132   Section=PLACA   MatProp=Default
+   Area=A133   Section=PLACA   MatProp=Default
+   Area=A134   Section=PLACA   MatProp=Default
+   Area=A135   Section=PLACA   MatProp=Default
+   Area=A136   Section=PLACA   MatProp=Default
+   Area=A137   Section=PLACA   MatProp=Default
+   Area=A138   Section=PLACA   MatProp=Default
+   Area=A139   Section=PLACA   MatProp=Default
+   Area=A140   Section=PLACA   MatProp=Default
+   Area=A141   Section=PLACA   MatProp=Default
+   Area=A142   Section=PLACA   MatProp=Default
+   Area=A143   Section=PLACA   MatProp=Default
+   Area=A144   Section=PLACA   MatProp=Default
+   Area=A145   Section=PLACA   MatProp=Default
+   Area=A146   Section=PLACA   MatProp=Default
+   Area=A147   Section=PLACA   MatProp=Default
+   Area=A148   Section=PLACA   MatProp=Default
+   Area=A149   Section=PLACA   MatProp=Default
+   Area=A150   Section=PLACA   MatProp=Default
+   Area=A151   Section=PLACA   MatProp=Default
+   Area=A152   Section=PLACA   MatProp=Default
+   Area=A153   Section=PLACA   MatProp=Default
+   Area=A154   Section=PLACA   MatProp=Default
+   Area=A155   Section=PLACA   MatProp=Default
+   Area=A156   Section=PLACA   MatProp=Default
+   Area=A157   Section=PLACA   MatProp=Default
+   Area=A158   Section=PLACA   MatProp=Default
+   Area=A159   Section=PLACA   MatProp=Default
+   Area=A160   Section=PLACA   MatProp=Default
+   Area=A161   Section=PLACA   MatProp=Default
+   Area=A162   Section=PLACA   MatProp=Default
+   Area=A163   Section=PLACA   MatProp=Default
+   Area=A164   Section=PLACA   MatProp=Default
+   Area=A165   Section=PLACA   MatProp=Default
+   Area=A166   Section=PLACA   MatProp=Default
+   Area=A167   Section=PLACA   MatProp=Default
+   Area=A168   Section=PLACA   MatProp=Default
+   Area=A169   Section=PLACA   MatProp=Default
+   Area=A170   Section=PLACA   MatProp=Default
+   Area=A171   Section=PLACA   MatProp=Default
+   Area=A172   Section=PLACA   MatProp=Default
+   Area=A173   Section=PLACA   MatProp=Default
+   Area=A174   Section=PLACA   MatProp=Default
+   Area=A175   Section=PLACA   MatProp=Default
+   Area=A176   Section=PLACA   MatProp=Default
+   Area=A177   Section=PLACA   MatProp=Default
+   Area=A178   Section=PLACA   MatProp=Default
+   Area=A179   Section=PLACA   MatProp=Default
+   Area=A180   Section=PLACA   MatProp=Default
+   Area=A181   Section=PLACA   MatProp=Default
+   Area=A182   Section=PLACA   MatProp=Default
+   Area=A183   Section=PLACA   MatProp=Default
+   Area=A184   Section=PLACA   MatProp=Default
+   Area=A185   Section=PLACA   MatProp=Default
+   Area=A186   Section=PLACA   MatProp=Default
+   Area=A187   Section=PLACA   MatProp=Default
+   Area=A188   Section=PLACA   MatProp=Default
+   Area=A189   Section=PLACA   MatProp=Default
+   Area=A190   Section=PLACA   MatProp=Default
+   Area=A191   Section=PLACA   MatProp=Default
+   Area=A192   Section=PLACA   MatProp=Default
+   Area=A193   Section=PLACA   MatProp=Default
+   Area=A194   Section=PLACA   MatProp=Default
+   Area=A195   Section=PLACA   MatProp=Default
+   Area=A196   Section=PLACA   MatProp=Default
+   Area=A197   Section=PLACA   MatProp=Default
+   Area=A198   Section=PLACA   MatProp=Default
+   Area=A199   Section=PLACA   MatProp=Default
+   Area=A200   Section=PLACA   MatProp=Default
+   Area=A201   Section=PLACA   MatProp=Default
+   Area=A202   Section=PLACA   MatProp=Default
+   Area=A203   Section=PLACA   MatProp=Default
+   Area=A204   Section=PLACA   MatProp=Default
+   Area=A205   Section=PLACA   MatProp=Default
+   Area=A206   Section=PLACA   MatProp=Default
+   Area=A207   Section=PLACA   MatProp=Default
+   Area=A208   Section=PLACA   MatProp=Default
+   Area=A209   Section=PLACA   MatProp=Default
+   Area=A210   Section=PLACA   MatProp=Default
+   Area=A211   Section=PLACA   MatProp=Default
+   Area=A212   Section=PLACA   MatProp=Default
+   Area=A213   Section=PLACA   MatProp=Default
+   Area=A214   Section=PLACA   MatProp=Default
+   Area=A215   Section=PLACA   MatProp=Default
+   Area=A216   Section=PLACA   MatProp=Default
+   Area=A217   Section=PLACA   MatProp=Default
+   Area=A218   Section=PLACA   MatProp=Default
+   Area=A219   Section=PLACA   MatProp=Default
+   Area=A220   Section=PLACA   MatProp=Default
+   Area=A221   Section=PLACA   MatProp=Default
+   Area=A222   Section=PLACA   MatProp=Default
+   Area=A223   Section=PLACA   MatProp=Default
+   Area=A224   Section=PLACA   MatProp=Default
+   Area=A225   Section=PLACA   MatProp=Default
+   Area=A226   Section=PLACA   MatProp=Default
+   Area=A227   Section=PLACA   MatProp=Default
+   Area=A228   Section=PLACA   MatProp=Default
+   Area=A229   Section=PLACA   MatProp=Default
+   Area=A230   Section=PLACA   MatProp=Default
+   Area=A231   Section=PLACA   MatProp=Default
+   Area=A232   Section=PLACA   MatProp=Default
+   Area=A233   Section=PLACA   MatProp=Default
+   Area=A234   Section=PLACA   MatProp=Default
+   Area=A235   Section=PLACA   MatProp=Default
+   Area=A236   Section=PLACA   MatProp=Default
+   Area=A237   Section=PLACA   MatProp=Default
+   Area=A238   Section=PLACA   MatProp=Default
+   Area=A239   Section=PLACA   MatProp=Default
+   Area=A240   Section=PLACA   MatProp=Default
+   Area=A241   Section=PLACA   MatProp=Default
+   Area=A242   Section=PLACA   MatProp=Default
+   Area=A243   Section=PLACA   MatProp=Default
+   Area=A244   Section=PLACA   MatProp=Default
+   Area=A245   Section=PLACA   MatProp=Default
+   Area=A246   Section=PLACA   MatProp=Default
+   Area=A247   Section=PLACA   MatProp=Default
+   Area=A248   Section=PLACA   MatProp=Default
+   Area=A249   Section=PLACA   MatProp=Default
+   Area=A250   Section=PLACA   MatProp=Default
+   Area=A251   Section=PLACA   MatProp=Default
+   Area=A252   Section=PLACA   MatProp=Default
+   Area=A253   Section=PLACA   MatProp=Default
+   Area=A254   Section=PLACA   MatProp=Default
+   Area=A255   Section=PLACA   MatProp=Default
+   Area=A256   Section=PLACA   MatProp=Default
+   Area=A257   Section=PLACA   MatProp=Default
+   Area=A258   Section=PLACA   MatProp=Default
+   Area=A259   Section=PLACA   MatProp=Default
+   Area=A260   Section=PLACA   MatProp=Default
+   Area=A261   Section=PLACA   MatProp=Default
+   Area=A262   Section=PLACA   MatProp=Default
+   Area=A263   Section=PLACA   MatProp=Default
+   Area=A264   Section=PLACA   MatProp=Default
+   Area=A265   Section=PLACA   MatProp=Default
+   Area=A266   Section=PLACA   MatProp=Default
+   Area=A267   Section=PLACA   MatProp=Default
+   Area=A268   Section=PLACA   MatProp=Default
+   Area=A269   Section=PLACA   MatProp=Default
+   Area=A270   Section=PLACA   MatProp=Default
+   Area=A271   Section=PLACA   MatProp=Default
+   Area=A272   Section=PLACA   MatProp=Default
+   Area=A273   Section=PLACA   MatProp=Default
+   Area=A274   Section=PLACA   MatProp=Default
+   Area=A275   Section=PLACA   MatProp=Default
+   Area=A276   Section=PLACA   MatProp=Default
+   Area=A277   Section=PLACA   MatProp=Default
+   Area=A278   Section=PLACA   MatProp=Default
+   Area=A279   Section=PLACA   MatProp=Default
+   Area=A280   Section=PLACA   MatProp=Default
+   Area=A281   Section=PLACA   MatProp=Default
+   Area=A282   Section=PLACA   MatProp=Default
+   Area=A283   Section=PLACA   MatProp=Default
+   Area=A284   Section=PLACA   MatProp=Default
+   Area=A285   Section=PLACA   MatProp=Default
+   Area=A286   Section=PLACA   MatProp=Default
+   Area=A287   Section=PLACA   MatProp=Default
+   Area=A288   Section=PLACA   MatProp=Default
+   Area=A289   Section=PLACA   MatProp=Default
+   Area=A290   Section=PLACA   MatProp=Default
+   Area=A291   Section=PLACA   MatProp=Default
+   Area=A292   Section=PLACA   MatProp=Default
+   Area=A293   Section=PLACA   MatProp=Default
+   Area=A294   Section=PLACA   MatProp=Default
+   Area=A295   Section=PLACA   MatProp=Default
+   Area=A296   Section=PLACA   MatProp=Default
+   Area=A297   Section=PLACA   MatProp=Default
+   Area=A298   Section=PLACA   MatProp=Default
+   Area=A299   Section=PLACA   MatProp=Default
+   Area=A300   Section=PLACA   MatProp=Default
+   Area=A301   Section=PLACA   MatProp=Default
+   Area=A302   Section=PLACA   MatProp=Default
+   Area=A303   Section=PLACA   MatProp=Default
+   Area=A304   Section=PLACA   MatProp=Default
+   Area=A305   Section=PLACA   MatProp=Default
+   Area=A306   Section=PLACA   MatProp=Default
+   Area=A307   Section=PLACA   MatProp=Default
+   Area=A308   Section=PLACA   MatProp=Default
+   Area=A309   Section=PLACA   MatProp=Default
+   Area=A310   Section=PLACA   MatProp=Default
+   Area=A311   Section=PLACA   MatProp=Default
+   Area=A312   Section=PLACA   MatProp=Default
+   Area=A313   Section=PLACA   MatProp=Default
+   Area=A314   Section=PLACA   MatProp=Default
+   Area=A315   Section=PLACA   MatProp=Default
+   Area=A316   Section=PLACA   MatProp=Default
+   Area=A317   Section=PLACA   MatProp=Default
+   Area=A318   Section=PLACA   MatProp=Default
+   Area=A319   Section=PLACA   MatProp=Default
+   Area=A320   Section=PLACA   MatProp=Default
+   Area=A321   Section=PLACA   MatProp=Default
+   Area=A322   Section=PLACA   MatProp=Default
+   Area=A323   Section=PLACA   MatProp=Default
+   Area=A324   Section=PLACA   MatProp=Default
+   Area=A325   Section=PLACA   MatProp=Default
+   Area=A326   Section=PLACA   MatProp=Default
+   Area=A327   Section=PLACA   MatProp=Default
+   Area=A328   Section=PLACA   MatProp=Default
+   Area=A329   Section=PLACA   MatProp=Default
+   Area=A330   Section=PLACA   MatProp=Default
+   Area=A331   Section=PLACA   MatProp=Default
+   Area=A332   Section=PLACA   MatProp=Default
+   Area=A333   Section=PLACA   MatProp=Default
+   Area=A334   Section=PLACA   MatProp=Default
+   Area=A335   Section=PLACA   MatProp=Default
+   Area=A336   Section=PLACA   MatProp=Default
+   Area=A337   Section=PLACA   MatProp=Default
+   Area=A338   Section=PLACA   MatProp=Default
+   Area=A339   Section=PLACA   MatProp=Default
+   Area=A340   Section=PLACA   MatProp=Default
+   Area=A341   Section=PLACA   MatProp=Default
+   Area=A342   Section=PLACA   MatProp=Default
+   Area=A343   Section=PLACA   MatProp=Default
+   Area=A344   Section=PLACA   MatProp=Default
+   Area=A345   Section=PLACA   MatProp=Default
+   Area=A346   Section=PLACA   MatProp=Default
+   Area=A347   Section=PLACA   MatProp=Default
+   Area=A348   Section=PLACA   MatProp=Default
+   Area=A349   Section=PLACA   MatProp=Default
+   Area=A350   Section=PLACA   MatProp=Default
+   Area=A351   Section=PLACA   MatProp=Default
+   Area=A352   Section=PLACA   MatProp=Default
+   Area=A353   Section=PLACA   MatProp=Default
+   Area=A354   Section=PLACA   MatProp=Default
+   Area=A355   Section=PLACA   MatProp=Default
+   Area=A356   Section=PLACA   MatProp=Default
+   Area=A357   Section=PLACA   MatProp=Default
+   Area=A358   Section=PLACA   MatProp=Default
+   Area=A359   Section=PLACA   MatProp=Default
+   Area=A360   Section=PLACA   MatProp=Default
+   Area=A361   Section=PLACA   MatProp=Default
+   Area=A362   Section=PLACA   MatProp=Default
+   Area=A363   Section=PLACA   MatProp=Default
+   Area=A364   Section=PLACA   MatProp=Default
+   Area=A365   Section=PLACA   MatProp=Default
+   Area=A366   Section=PLACA   MatProp=Default
+   Area=A367   Section=PLACA   MatProp=Default
+   Area=A368   Section=PLACA   MatProp=Default
+   Area=A369   Section=PLACA   MatProp=Default
+   Area=A370   Section=PLACA   MatProp=Default
+   Area=A371   Section=PLACA   MatProp=Default
+   Area=A372   Section=PLACA   MatProp=Default
+   Area=A373   Section=PLACA   MatProp=Default
+   Area=A374   Section=PLACA   MatProp=Default
+   Area=A375   Section=PLACA   MatProp=Default
+   Area=A376   Section=PLACA   MatProp=Default
+   Area=A377   Section=PLACA   MatProp=Default
+   Area=A378   Section=PLACA   MatProp=Default
+   Area=A379   Section=PLACA   MatProp=Default
+   Area=A380   Section=PLACA   MatProp=Default
+   Area=A381   Section=PLACA   MatProp=Default
+   Area=A382   Section=PLACA   MatProp=Default
+   Area=A383   Section=PLACA   MatProp=Default
+   Area=A384   Section=PLACA   MatProp=Default
+ 
+TABLE:  "AREA SECTION PROPERTIES"
+   Section=PLACA   Material=CONC   MatAngle=0   AreaType=Shell   Type=Plate-Thin   Thickness=0.1   BendThick=0.1   Color=Cyan   F11Mod=1   F22Mod=1   F12Mod=1   M11Mod=1   M22Mod=1   M12Mod=1   V13Mod=1   V23Mod=1   MMod=1   WMod=1
+ 
+TABLE:  "AREA SECTION PROPERTY DESIGN PARAMETERS"
+   Section=PLACA   RebarMat=None   RebarOpt=Default
+ 
+TABLE:  "AREA SECTION PROPERTY - TIME DEPENDENT"
+   Section=PLACA   TypeSize=Auto   AutoSFSize=1
+ 
+TABLE:  "AUTO WAVE 3 - WAVE CHARACTERISTICS - GENERAL"
+   WaveChar=Default   WaveType="From Theory"   KinFactor=1   SWaterDepth=45   WaveHeight=18   WavePeriod=12   WaveTheory=Linear
+ 
+TABLE:  "CASE - MODAL 1 - GENERAL"
+   Case=MODAL   ModeType=Eigen   MaxNumModes=12   MinNumModes=1   EigenShift=0   EigenCutoff=0   EigenTol=1E-09   AutoShift=Yes
+ 
+TABLE:  "CASE - STATIC 1 - LOAD ASSIGNMENTS"
+   Case=DEAD   LoadType="Load pattern"   LoadName=DEAD   LoadSF=1
+   Case=CARGA   LoadType="Load pattern"   LoadName=CARGA   LoadSF=1
+ 
+TABLE:  "CONNECTIVITY - AREA"
+   Area=A1   Joint1=1   Joint2=2   Joint3=27   Joint4=26   GUID=e8ef0529-5e05-4c05-b611-21adc9d57c91
+   Area=A2   Joint1=2   Joint2=3   Joint3=28   Joint4=27   GUID=11465d5f-f331-412b-ad83-922b0fc120da
+   Area=A3   Joint1=3   Joint2=4   Joint3=29   Joint4=28   GUID=786b6aba-99a0-4e80-b429-0150e7336e96
+   Area=A4   Joint1=4   Joint2=5   Joint3=30   Joint4=29   GUID=25997307-7703-4a25-ad8f-09cec2ebb03a
+   Area=A5   Joint1=5   Joint2=6   Joint3=31   Joint4=30   GUID=c9ff2b3d-9422-4095-b8c3-41f9852399c8
+   Area=A6   Joint1=6   Joint2=7   Joint3=32   Joint4=31   GUID=0d56166d-0558-4481-8b8c-fc2c6eb13639
+   Area=A7   Joint1=7   Joint2=8   Joint3=33   Joint4=32   GUID=8db44d63-df45-422c-8c4d-270038d8bf83
+   Area=A8   Joint1=8   Joint2=9   Joint3=34   Joint4=33   GUID=91d3e08e-3f63-44e1-bb90-0ebdb8a55f10
+   Area=A9   Joint1=9   Joint2=10   Joint3=35   Joint4=34   GUID=02357801-9df2-44e1-ac4d-a23e340916f5
+   Area=A10   Joint1=10   Joint2=11   Joint3=36   Joint4=35   GUID=e6f33d44-f062-4a09-a87a-e0ebf008fea9
+   Area=A11   Joint1=11   Joint2=12   Joint3=37   Joint4=36   GUID=dbeefa25-9a77-4623-bcbd-b7ae1792a753
+   Area=A12   Joint1=12   Joint2=13   Joint3=38   Joint4=37   GUID=19e418ac-8c26-41c7-9ab3-a341c0f9a3c2
+   Area=A13   Joint1=13   Joint2=14   Joint3=39   Joint4=38   GUID=0db807cf-88d7-477e-b63e-d332daf140b6
+   Area=A14   Joint1=14   Joint2=15   Joint3=40   Joint4=39   GUID=325264c9-a135-4eb0-b2c0-b8fe4950b5cf
+   Area=A15   Joint1=15   Joint2=16   Joint3=41   Joint4=40   GUID=279bb64b-33a1-41be-bb4f-130cc21e3a91
+   Area=A16   Joint1=16   Joint2=17   Joint3=42   Joint4=41   GUID=59386f0e-4118-45aa-90e4-7c2ef08e33ae
+   Area=A17   Joint1=17   Joint2=18   Joint3=43   Joint4=42   GUID=ff801967-1107-4e0c-8b74-77f6a88c7c21
+   Area=A18   Joint1=18   Joint2=19   Joint3=44   Joint4=43   GUID=a1b0f8b3-ddbe-4cd4-a6c4-34d5ddc32fba
+   Area=A19   Joint1=19   Joint2=20   Joint3=45   Joint4=44   GUID=082b7137-23ab-4a06-b069-eb7c82218b45
+   Area=A20   Joint1=20   Joint2=21   Joint3=46   Joint4=45   GUID=34723387-39c2-4804-a07a-d9d02e117598
+   Area=A21   Joint1=21   Joint2=22   Joint3=47   Joint4=46   GUID=e5a14c04-5415-4916-a3aa-f5d5c26f8074
+   Area=A22   Joint1=22   Joint2=23   Joint3=48   Joint4=47   GUID=039beca5-bae3-4197-8a59-c07a4be309d7
+   Area=A23   Joint1=23   Joint2=24   Joint3=49   Joint4=48   GUID=94525c31-2243-4ff1-ba31-f619042a86b8
+   Area=A24   Joint1=24   Joint2=25   Joint3=50   Joint4=49   GUID=c28a88ea-2436-4040-8e00-5db87f65eb3f
+   Area=A25   Joint1=26   Joint2=27   Joint3=52   Joint4=51   GUID=6f1f9c4e-4482-4f9c-a53c-5bdc2290d9f8
+   Area=A26   Joint1=27   Joint2=28   Joint3=53   Joint4=52   GUID=c72c1702-46dd-445c-8674-42fed4e3c6d2
+   Area=A27   Joint1=28   Joint2=29   Joint3=54   Joint4=53   GUID=f6523960-e358-49d2-b5f9-a5f63dd6cf02
+   Area=A28   Joint1=29   Joint2=30   Joint3=55   Joint4=54   GUID=b46abca3-59da-40f9-95f1-97e2ff56ed56
+   Area=A29   Joint1=30   Joint2=31   Joint3=56   Joint4=55   GUID=76c5529a-da91-4371-b882-f5200476cba0
+   Area=A30   Joint1=31   Joint2=32   Joint3=57   Joint4=56   GUID=58737e63-9542-4d07-945d-ba11cc21aa6b
+   Area=A31   Joint1=32   Joint2=33   Joint3=58   Joint4=57   GUID=2aebaea3-dc34-4baa-93c0-4bd53eb385c8
+   Area=A32   Joint1=33   Joint2=34   Joint3=59   Joint4=58   GUID=30f392ac-bfa4-4855-82f0-7cc468764ce3
+   Area=A33   Joint1=34   Joint2=35   Joint3=60   Joint4=59   GUID=1a18b34e-008a-4aeb-825a-6921547dc440
+   Area=A34   Joint1=35   Joint2=36   Joint3=61   Joint4=60   GUID=38a44829-5bbf-4506-9817-d9968cb73d99
+   Area=A35   Joint1=36   Joint2=37   Joint3=62   Joint4=61   GUID=500f5c52-a486-4cee-a873-ffac38e4e034
+   Area=A36   Joint1=37   Joint2=38   Joint3=63   Joint4=62   GUID=2347d75f-5dce-4d64-9963-6c0ea308dc7f
+   Area=A37   Joint1=38   Joint2=39   Joint3=64   Joint4=63   GUID=3776710e-bc46-4b37-85c1-5af4f46a852a
+   Area=A38   Joint1=39   Joint2=40   Joint3=65   Joint4=64   GUID=2e72950a-995c-4d7c-bf8d-870dc6bc081a
+   Area=A39   Joint1=40   Joint2=41   Joint3=66   Joint4=65   GUID=ad038912-11eb-4e8e-99c4-49bbc73a9e49
+   Area=A40   Joint1=41   Joint2=42   Joint3=67   Joint4=66   GUID=0e835a12-514d-4fc1-b995-d17b53eee64c
+   Area=A41   Joint1=42   Joint2=43   Joint3=68   Joint4=67   GUID=25bfe601-3dd8-41a0-80ef-2a670dd2ccbf
+   Area=A42   Joint1=43   Joint2=44   Joint3=69   Joint4=68   GUID=65436cf2-274b-465b-9243-8b0f4ae29403
+   Area=A43   Joint1=44   Joint2=45   Joint3=70   Joint4=69   GUID=9704784a-57e1-4539-8199-c6f84d9410a4
+   Area=A44   Joint1=45   Joint2=46   Joint3=71   Joint4=70   GUID=081ed8f0-9b8a-4b1e-8e24-d818d9597c71
+   Area=A45   Joint1=46   Joint2=47   Joint3=72   Joint4=71   GUID=a2da848b-90d5-4b5b-9722-e672bc933cb5
+   Area=A46   Joint1=47   Joint2=48   Joint3=73   Joint4=72   GUID=de3ffd13-e3b1-4713-84e3-668d807528f2
+   Area=A47   Joint1=48   Joint2=49   Joint3=74   Joint4=73   GUID=6f5c888f-d70d-4685-a4b7-7181a044f93b
+   Area=A48   Joint1=49   Joint2=50   Joint3=75   Joint4=74   GUID=525f95d7-659f-4c7f-9134-0d6d4a62b856
+   Area=A49   Joint1=51   Joint2=52   Joint3=77   Joint4=76   GUID=6bd6cb06-44c9-4f53-b74f-463055663b17
+   Area=A50   Joint1=52   Joint2=53   Joint3=78   Joint4=77   GUID=471d8e2f-43bd-4b38-a77f-343d2f445005
+   Area=A51   Joint1=53   Joint2=54   Joint3=79   Joint4=78   GUID=89856dac-dbbc-4872-afa7-120bc2277336
+   Area=A52   Joint1=54   Joint2=55   Joint3=80   Joint4=79   GUID=8b6a242b-5cc8-4ee0-b50d-fa3b51cb0464
+   Area=A53   Joint1=55   Joint2=56   Joint3=81   Joint4=80   GUID=364815a2-7f26-4174-89de-b32acf1c76c6
+   Area=A54   Joint1=56   Joint2=57   Joint3=82   Joint4=81   GUID=dfcc00e9-d446-4c8b-8fab-3c8ce3b26abe
+   Area=A55   Joint1=57   Joint2=58   Joint3=83   Joint4=82   GUID=95320d69-80bc-4c98-b976-1ed18a8ca21e
+   Area=A56   Joint1=58   Joint2=59   Joint3=84   Joint4=83   GUID=99b29173-f722-486f-97cd-d93ade185d88
+   Area=A57   Joint1=59   Joint2=60   Joint3=85   Joint4=84   GUID=9fbfdc8e-658f-48b3-bc40-1cdb29b7a459
+   Area=A58   Joint1=60   Joint2=61   Joint3=86   Joint4=85   GUID=eaf89082-3de8-4b2e-89a0-2fd397d2fbea
+   Area=A59   Joint1=61   Joint2=62   Joint3=87   Joint4=86   GUID=cc4e1f6b-f011-46b4-954f-bb725dacc4a4
+   Area=A60   Joint1=62   Joint2=63   Joint3=88   Joint4=87   GUID=7d5832e3-2b3a-49b5-9aaa-43c4de1061f9
+   Area=A61   Joint1=63   Joint2=64   Joint3=89   Joint4=88   GUID=bd512424-c17f-416f-bfec-2c472d17ac8d
+   Area=A62   Joint1=64   Joint2=65   Joint3=90   Joint4=89   GUID=14c8af77-1b1c-4d6c-8dcb-b64d9ea2445a
+   Area=A63   Joint1=65   Joint2=66   Joint3=91   Joint4=90   GUID=4108bc79-cc3a-4721-8811-5054b76665b5
+   Area=A64   Joint1=66   Joint2=67   Joint3=92   Joint4=91   GUID=c43493a7-6706-439c-8f9b-957589481a70
+   Area=A65   Joint1=67   Joint2=68   Joint3=93   Joint4=92   GUID=75e38256-7feb-43fe-b67b-e8069bfd92db
+   Area=A66   Joint1=68   Joint2=69   Joint3=94   Joint4=93   GUID=b660b737-ac33-46cb-9d10-ee122cd5f8db
+   Area=A67   Joint1=69   Joint2=70   Joint3=95   Joint4=94   GUID=a80d6f07-4802-4513-add4-a55e4cb48cc7
+   Area=A68   Joint1=70   Joint2=71   Joint3=96   Joint4=95   GUID=c40b53e9-2e8f-4820-9b8a-be83300c3c01
+   Area=A69   Joint1=71   Joint2=72   Joint3=97   Joint4=96   GUID=278904f5-9550-41f9-aedb-5516937bd147
+   Area=A70   Joint1=72   Joint2=73   Joint3=98   Joint4=97   GUID=21fe30ab-b8d3-4579-ad3c-008698cc415a
+   Area=A71   Joint1=73   Joint2=74   Joint3=99   Joint4=98   GUID=5625fea0-19db-4aab-aefa-69806fb4e028
+   Area=A72   Joint1=74   Joint2=75   Joint3=100   Joint4=99   GUID=3d930e57-3914-40a8-b2e6-71104becda38
+   Area=A73   Joint1=76   Joint2=77   Joint3=102   Joint4=101   GUID=3ee67812-a4f2-44e1-ab01-bd9f96b94f5e
+   Area=A74   Joint1=77   Joint2=78   Joint3=103   Joint4=102   GUID=b087f333-c8a3-4c6f-8cec-6ae950bf2990
+   Area=A75   Joint1=78   Joint2=79   Joint3=104   Joint4=103   GUID=e9a6673f-cb56-47ca-baa0-74a6c22fb0fd
+   Area=A76   Joint1=79   Joint2=80   Joint3=105   Joint4=104   GUID=21c38d68-6ad3-40a8-8562-d6da9ae13dd1
+   Area=A77   Joint1=80   Joint2=81   Joint3=106   Joint4=105   GUID=a34c6f9e-80dd-45a1-8c72-3a8e41f6e204
+   Area=A78   Joint1=81   Joint2=82   Joint3=107   Joint4=106   GUID=4a7ddab0-7b3c-4824-b9b6-033261c8f755
+   Area=A79   Joint1=82   Joint2=83   Joint3=108   Joint4=107   GUID=09c48dbf-6e32-4744-8603-892644c718d3
+   Area=A80   Joint1=83   Joint2=84   Joint3=109   Joint4=108   GUID=e4ef340b-3879-4185-9d98-ba93c26b5f73
+   Area=A81   Joint1=84   Joint2=85   Joint3=110   Joint4=109   GUID=1f519a51-a676-4c2b-b88f-7d1924b17562
+   Area=A82   Joint1=85   Joint2=86   Joint3=111   Joint4=110   GUID=66825b0c-6c6d-4d44-b0b3-7fa393813fef
+   Area=A83   Joint1=86   Joint2=87   Joint3=112   Joint4=111   GUID=bb29f61e-0b78-4bc3-bcfb-448bee4372ba
+   Area=A84   Joint1=87   Joint2=88   Joint3=113   Joint4=112   GUID=5b2b7f52-f124-4656-8e4b-4ba86f352e6f
+   Area=A85   Joint1=88   Joint2=89   Joint3=114   Joint4=113   GUID=308c7ffe-666c-463c-b39a-7dccd9db1052
+   Area=A86   Joint1=89   Joint2=90   Joint3=115   Joint4=114   GUID=611e5302-f6fe-4101-859a-65d25a676744
+   Area=A87   Joint1=90   Joint2=91   Joint3=116   Joint4=115   GUID=366c8009-4c9b-47d4-aaa3-e2f5458d0773
+   Area=A88   Joint1=91   Joint2=92   Joint3=117   Joint4=116   GUID=e6c2f645-b985-4b6e-bb32-83a075ee5f38
+   Area=A89   Joint1=92   Joint2=93   Joint3=118   Joint4=117   GUID=03dd4bad-d6b4-47cb-8036-67387679f943
+   Area=A90   Joint1=93   Joint2=94   Joint3=119   Joint4=118   GUID=1cbebe77-8690-41b8-b3f0-9214ad88a448
+   Area=A91   Joint1=94   Joint2=95   Joint3=120   Joint4=119   GUID=e9e91bf3-100d-42e9-8361-b0cd2685e98b
+   Area=A92   Joint1=95   Joint2=96   Joint3=121   Joint4=120   GUID=09edf59b-0dde-49fe-a961-b958b0357985
+   Area=A93   Joint1=96   Joint2=97   Joint3=122   Joint4=121   GUID=1c4ba4c9-43d2-4aa4-a21c-cd906fa22a71
+   Area=A94   Joint1=97   Joint2=98   Joint3=123   Joint4=122   GUID=f446627b-542d-4e12-8301-e55d21d611f6
+   Area=A95   Joint1=98   Joint2=99   Joint3=124   Joint4=123   GUID=17f7702f-9f65-4751-8fcb-282a5ec2ff61
+   Area=A96   Joint1=99   Joint2=100   Joint3=125   Joint4=124   GUID=a523edb9-4729-4b7d-9759-63264dadf709
+   Area=A97   Joint1=101   Joint2=102   Joint3=127   Joint4=126   GUID=9756d1e2-a73e-4d5d-ab82-478acc2cc9fe
+   Area=A98   Joint1=102   Joint2=103   Joint3=128   Joint4=127   GUID=b1e32f5c-493c-4d61-b14b-eef83349e986
+   Area=A99   Joint1=103   Joint2=104   Joint3=129   Joint4=128   GUID=758faf30-3b34-430f-816e-d88139676578
+   Area=A100   Joint1=104   Joint2=105   Joint3=130   Joint4=129   GUID=a8f28476-c85e-40b5-a480-31634ed16748
+   Area=A101   Joint1=105   Joint2=106   Joint3=131   Joint4=130   GUID=c48b2d14-856c-445f-8ce1-3b9aebfdd919
+   Area=A102   Joint1=106   Joint2=107   Joint3=132   Joint4=131   GUID=54c647d2-e5bd-46a4-a280-796700aa919f
+   Area=A103   Joint1=107   Joint2=108   Joint3=133   Joint4=132   GUID=a6ddea90-6718-4eca-8b18-e01caf21e39a
+   Area=A104   Joint1=108   Joint2=109   Joint3=134   Joint4=133   GUID=3cb7a872-3fc5-4996-8598-d9e871b43060
+   Area=A105   Joint1=109   Joint2=110   Joint3=135   Joint4=134   GUID=df9f43ea-2992-4580-946b-e68e5305e0e1
+   Area=A106   Joint1=110   Joint2=111   Joint3=136   Joint4=135   GUID=86a2c69f-53c9-4514-9969-470926798858
+   Area=A107   Joint1=111   Joint2=112   Joint3=137   Joint4=136   GUID=817e7195-09c5-4321-bbdd-4b075a8fd98f
+   Area=A108   Joint1=112   Joint2=113   Joint3=138   Joint4=137   GUID=2cf5d60c-fa68-4167-adc2-209669e742fa
+   Area=A109   Joint1=113   Joint2=114   Joint3=139   Joint4=138   GUID=a1846672-d2b6-4ec9-8ba4-63bb307b9c87
+   Area=A110   Joint1=114   Joint2=115   Joint3=140   Joint4=139   GUID=74d107f8-5a39-4c5e-8c5e-9a231176625d
+   Area=A111   Joint1=115   Joint2=116   Joint3=141   Joint4=140   GUID=c8ab3fb5-3eff-4245-8ec8-2ca6e0cc7f76
+   Area=A112   Joint1=116   Joint2=117   Joint3=142   Joint4=141   GUID=db6b2580-33b4-46a3-948a-0c788a7df431
+   Area=A113   Joint1=117   Joint2=118   Joint3=143   Joint4=142   GUID=a9f15078-9616-4ce0-a030-eb3fe5187825
+   Area=A114   Joint1=118   Joint2=119   Joint3=144   Joint4=143   GUID=b18575b9-3182-470d-b01b-b9222b0c65b1
+   Area=A115   Joint1=119   Joint2=120   Joint3=145   Joint4=144   GUID=897a68cb-5cce-46bc-88d5-aaa483f5cd7c
+   Area=A116   Joint1=120   Joint2=121   Joint3=146   Joint4=145   GUID=a858d231-94f4-43cc-bc0e-7168f73a9faf
+   Area=A117   Joint1=121   Joint2=122   Joint3=147   Joint4=146   GUID=a88236ab-e7a8-4db8-a0b8-938acaad3032
+   Area=A118   Joint1=122   Joint2=123   Joint3=148   Joint4=147   GUID=8deca9de-223d-47ba-a948-f1a964787130
+   Area=A119   Joint1=123   Joint2=124   Joint3=149   Joint4=148   GUID=5df9627e-0ad7-4df0-9c93-fd4871072a02
+   Area=A120   Joint1=124   Joint2=125   Joint3=150   Joint4=149   GUID=1692fe59-8082-4f36-b932-5fe144e2e586
+   Area=A121   Joint1=126   Joint2=127   Joint3=152   Joint4=151   GUID=3f06b140-b09b-49d0-bf61-e03591b8fab7
+   Area=A122   Joint1=127   Joint2=128   Joint3=153   Joint4=152   GUID=164e496d-9cbe-4b64-a5ce-8fe4bd046429
+   Area=A123   Joint1=128   Joint2=129   Joint3=154   Joint4=153   GUID=e088fb6e-d4fb-48ef-94b0-64443cacfb4e
+   Area=A124   Joint1=129   Joint2=130   Joint3=155   Joint4=154   GUID=77231c8d-81e6-46f2-b477-df9b3cd9c53e
+   Area=A125   Joint1=130   Joint2=131   Joint3=156   Joint4=155   GUID=76f240cb-7ae7-4892-a65c-c8576df3b5b5
+   Area=A126   Joint1=131   Joint2=132   Joint3=157   Joint4=156   GUID=2fdd1b2f-3d6b-43be-b003-7eabedd33598
+   Area=A127   Joint1=132   Joint2=133   Joint3=158   Joint4=157   GUID=892c4ada-8cfd-46d8-955f-f8860f4fdde9
+   Area=A128   Joint1=133   Joint2=134   Joint3=159   Joint4=158   GUID=538eae8a-dc90-4988-bb5c-14f5beb595a0
+   Area=A129   Joint1=134   Joint2=135   Joint3=160   Joint4=159   GUID=ce20c082-b579-4032-9e27-f3ff6c8b6c01
+   Area=A130   Joint1=135   Joint2=136   Joint3=161   Joint4=160   GUID=f98fc539-924f-4b08-8957-bfd835fc5631
+   Area=A131   Joint1=136   Joint2=137   Joint3=162   Joint4=161   GUID=b90fcc79-0034-4592-b88e-853f84c0a87a
+   Area=A132   Joint1=137   Joint2=138   Joint3=163   Joint4=162   GUID=7780c958-1194-46bf-98ed-81a160d6f743
+   Area=A133   Joint1=138   Joint2=139   Joint3=164   Joint4=163   GUID=d0f02951-d207-48b6-8346-554b5eceda9c
+   Area=A134   Joint1=139   Joint2=140   Joint3=165   Joint4=164   GUID=0ea865b0-63c6-42bf-9b8d-83d5c77af5ff
+   Area=A135   Joint1=140   Joint2=141   Joint3=166   Joint4=165   GUID=b45d9942-2d8d-4f2d-9ab1-d969ab7e2b64
+   Area=A136   Joint1=141   Joint2=142   Joint3=167   Joint4=166   GUID=5d1196e8-dab1-45d3-9864-2e9bdd7f99a3
+   Area=A137   Joint1=142   Joint2=143   Joint3=168   Joint4=167   GUID=5989f723-d389-4896-ab50-5d42ea193c77
+   Area=A138   Joint1=143   Joint2=144   Joint3=169   Joint4=168   GUID=4a52cee4-a84e-4899-9473-76835a50d0ea
+   Area=A139   Joint1=144   Joint2=145   Joint3=170   Joint4=169   GUID=b8bbeda0-0bfe-4ec6-9d8f-7aad16b507a2
+   Area=A140   Joint1=145   Joint2=146   Joint3=171   Joint4=170   GUID=448d942e-aebf-475c-9326-b18f61c0f73d
+   Area=A141   Joint1=146   Joint2=147   Joint3=172   Joint4=171   GUID=90613a9c-f9ff-40a7-90f3-a8d75d1229af
+   Area=A142   Joint1=147   Joint2=148   Joint3=173   Joint4=172   GUID=d3877de5-fa02-4fd5-8a47-5480475b6dce
+   Area=A143   Joint1=148   Joint2=149   Joint3=174   Joint4=173   GUID=5e5b6828-fb43-4f98-9c93-82b9fc471eaa
+   Area=A144   Joint1=149   Joint2=150   Joint3=175   Joint4=174   GUID=cf8ef330-dfbe-49f0-b0b3-7099720b4862
+   Area=A145   Joint1=151   Joint2=152   Joint3=177   Joint4=176   GUID=5760ade5-2c81-4036-afcf-30a9f8f8f8e5
+   Area=A146   Joint1=152   Joint2=153   Joint3=178   Joint4=177   GUID=06eb8bd2-e50a-4b22-bae3-054edeb9d97a
+   Area=A147   Joint1=153   Joint2=154   Joint3=179   Joint4=178   GUID=98be3488-cba4-4991-896e-3b109ffb6b09
+   Area=A148   Joint1=154   Joint2=155   Joint3=180   Joint4=179   GUID=80061f71-3336-4e9c-9d2c-b2fc6bf435a8
+   Area=A149   Joint1=155   Joint2=156   Joint3=181   Joint4=180   GUID=c9170a2b-7174-4358-b4d9-2e648c616793
+   Area=A150   Joint1=156   Joint2=157   Joint3=182   Joint4=181   GUID=3d7bb01b-3c75-46f1-9127-0d8dbfc5e013
+   Area=A151   Joint1=157   Joint2=158   Joint3=183   Joint4=182   GUID=88206806-2053-4f19-b513-e49558ef0764
+   Area=A152   Joint1=158   Joint2=159   Joint3=184   Joint4=183   GUID=095da428-3551-455b-861a-6b5e4a97cae3
+   Area=A153   Joint1=159   Joint2=160   Joint3=185   Joint4=184   GUID=18fa4419-5687-423f-ac3e-74cabf10f4d6
+   Area=A154   Joint1=160   Joint2=161   Joint3=186   Joint4=185   GUID=f46c84cc-e63f-4aba-a8ca-0ca9263d249f
+   Area=A155   Joint1=161   Joint2=162   Joint3=187   Joint4=186   GUID=40ab36d7-0278-41ce-b1a8-4617e51075ae
+   Area=A156   Joint1=162   Joint2=163   Joint3=188   Joint4=187   GUID=2c749e9f-b2e4-4150-bb99-a975b51354af
+   Area=A157   Joint1=163   Joint2=164   Joint3=189   Joint4=188   GUID=95a45bb3-70cf-4b70-abf5-4f1ddd7ffa9b
+   Area=A158   Joint1=164   Joint2=165   Joint3=190   Joint4=189   GUID=09c5a052-fcc8-4c39-9234-ef224f15314c
+   Area=A159   Joint1=165   Joint2=166   Joint3=191   Joint4=190   GUID=128b2555-1b14-4cc1-9708-4d6d88314643
+   Area=A160   Joint1=166   Joint2=167   Joint3=192   Joint4=191   GUID=5e34672a-81b9-4e08-9c56-de66a0ceccdf
+   Area=A161   Joint1=167   Joint2=168   Joint3=193   Joint4=192   GUID=d3ea8322-74bf-46f7-b3fb-317d93ea9d46
+   Area=A162   Joint1=168   Joint2=169   Joint3=194   Joint4=193   GUID=aa96be4a-3250-4455-8865-47497de19b31
+   Area=A163   Joint1=169   Joint2=170   Joint3=195   Joint4=194   GUID=d8e7af4b-a478-468f-a108-6f26612bcbbf
+   Area=A164   Joint1=170   Joint2=171   Joint3=196   Joint4=195   GUID=3ba76f26-bfe3-4ccc-8349-e3d46e0601e8
+   Area=A165   Joint1=171   Joint2=172   Joint3=197   Joint4=196   GUID=b1c766db-a482-4f29-8e3b-b27c637dea8e
+   Area=A166   Joint1=172   Joint2=173   Joint3=198   Joint4=197   GUID=3dded282-a0ee-41ab-8c69-7f9a791c0e4e
+   Area=A167   Joint1=173   Joint2=174   Joint3=199   Joint4=198   GUID=5bf86d41-ac17-46d0-bfdc-1b3b42a4ee1c
+   Area=A168   Joint1=174   Joint2=175   Joint3=200   Joint4=199   GUID=3d5fabc1-a7a7-43f9-84b9-724db8ebd186
+   Area=A169   Joint1=176   Joint2=177   Joint3=202   Joint4=201   GUID=5c4c3bd3-d08a-41b8-9712-3eadeeab0278
+   Area=A170   Joint1=177   Joint2=178   Joint3=203   Joint4=202   GUID=abe909a1-44c7-49c6-a841-57776aa97116
+   Area=A171   Joint1=178   Joint2=179   Joint3=204   Joint4=203   GUID=58fd0c91-3636-48a0-b3f5-d1a03ab57413
+   Area=A172   Joint1=179   Joint2=180   Joint3=205   Joint4=204   GUID=c287ba15-5dc6-4a2a-8f66-8bffa340d725
+   Area=A173   Joint1=180   Joint2=181   Joint3=206   Joint4=205   GUID=6c3b5bab-58ae-4d9a-9419-71ed2022994e
+   Area=A174   Joint1=181   Joint2=182   Joint3=207   Joint4=206   GUID=3a3426d1-7a09-4917-9c1a-e60120e2d0ca
+   Area=A175   Joint1=182   Joint2=183   Joint3=208   Joint4=207   GUID=0e7324bc-f2de-44c1-9265-a04cf21da4fb
+   Area=A176   Joint1=183   Joint2=184   Joint3=209   Joint4=208   GUID=d705145e-30cb-4a54-afd6-0caf5af7cdb3
+   Area=A177   Joint1=184   Joint2=185   Joint3=210   Joint4=209   GUID=66ff97fd-d57d-4f07-9dea-1cea860cbd94
+   Area=A178   Joint1=185   Joint2=186   Joint3=211   Joint4=210   GUID=1f29da00-4c99-40ea-9135-35a759e1db1a
+   Area=A179   Joint1=186   Joint2=187   Joint3=212   Joint4=211   GUID=1bde6154-c158-4d35-a3d8-ae16c13e76dd
+   Area=A180   Joint1=187   Joint2=188   Joint3=213   Joint4=212   GUID=576ef442-085d-436e-b092-d19ff56034a9
+   Area=A181   Joint1=188   Joint2=189   Joint3=214   Joint4=213   GUID=91173bcc-46e6-4256-a975-4ac70f76874a
+   Area=A182   Joint1=189   Joint2=190   Joint3=215   Joint4=214   GUID=75e1642b-980b-4bd5-95b7-eede01eb016d
+   Area=A183   Joint1=190   Joint2=191   Joint3=216   Joint4=215   GUID=f46509f6-dd8b-4128-9196-892f227dcdb1
+   Area=A184   Joint1=191   Joint2=192   Joint3=217   Joint4=216   GUID=73321f90-9acf-4afb-bc73-98f632d4e7af
+   Area=A185   Joint1=192   Joint2=193   Joint3=218   Joint4=217   GUID=b14c8156-283c-4b19-9437-cb5a17947373
+   Area=A186   Joint1=193   Joint2=194   Joint3=219   Joint4=218   GUID=e1e77e57-54b7-4c44-a9d1-5d096121e426
+   Area=A187   Joint1=194   Joint2=195   Joint3=220   Joint4=219   GUID=84f79a27-202f-4058-90c4-ac8f8e9e9a61
+   Area=A188   Joint1=195   Joint2=196   Joint3=221   Joint4=220   GUID=51b82221-98fb-4ed2-898a-2d39f777578b
+   Area=A189   Joint1=196   Joint2=197   Joint3=222   Joint4=221   GUID=b73614ac-0551-49eb-b911-932e1f2d3804
+   Area=A190   Joint1=197   Joint2=198   Joint3=223   Joint4=222   GUID=b25312ef-2276-4e93-83bd-e1c38a07fbf2
+   Area=A191   Joint1=198   Joint2=199   Joint3=224   Joint4=223   GUID=ace4f68e-3c28-4dea-9e42-3de804298d31
+   Area=A192   Joint1=199   Joint2=200   Joint3=225   Joint4=224   GUID=821df8fb-e26a-4778-8dfa-115fc647c38e
+   Area=A193   Joint1=201   Joint2=202   Joint3=227   Joint4=226   GUID=44a3038b-cb23-449a-8a58-c2fbc01b8ceb
+   Area=A194   Joint1=202   Joint2=203   Joint3=228   Joint4=227   GUID=c75bc871-d863-45b4-a2ed-4ccddf4f3b8a
+   Area=A195   Joint1=203   Joint2=204   Joint3=229   Joint4=228   GUID=265c2119-96fb-4d5a-b119-bbab782ce36c
+   Area=A196   Joint1=204   Joint2=205   Joint3=230   Joint4=229   GUID=828b0c67-0005-4606-922d-1a3f4e50cdcb
+   Area=A197   Joint1=205   Joint2=206   Joint3=231   Joint4=230   GUID=e6cb7bee-afe7-4c21-b02e-b1de1a9406ef
+   Area=A198   Joint1=206   Joint2=207   Joint3=232   Joint4=231   GUID=766061cd-47db-4c64-8cdc-423fcaa54a2c
+   Area=A199   Joint1=207   Joint2=208   Joint3=233   Joint4=232   GUID=b0159318-8c1a-4ea6-b9ca-076b4de8ba72
+   Area=A200   Joint1=208   Joint2=209   Joint3=234   Joint4=233   GUID=b25e85bb-380c-4583-ac6d-547383e4460a
+   Area=A201   Joint1=209   Joint2=210   Joint3=235   Joint4=234   GUID=53103a0a-0bba-4a1c-979f-a5d7598c7367
+   Area=A202   Joint1=210   Joint2=211   Joint3=236   Joint4=235   GUID=bee29e0c-a395-45f9-8ba3-9c504238609a
+   Area=A203   Joint1=211   Joint2=212   Joint3=237   Joint4=236   GUID=eec8b13c-09f1-4305-a2fd-1000a5cf1903
+   Area=A204   Joint1=212   Joint2=213   Joint3=238   Joint4=237   GUID=5fca0b30-e862-4987-94b2-e558b37a7eba
+   Area=A205   Joint1=213   Joint2=214   Joint3=239   Joint4=238   GUID=58457b8a-a068-45a8-9548-ae90c459e4b3
+   Area=A206   Joint1=214   Joint2=215   Joint3=240   Joint4=239   GUID=dfdd9eae-d468-425f-a160-c223b5bcc526
+   Area=A207   Joint1=215   Joint2=216   Joint3=241   Joint4=240   GUID=146ac24f-860e-4932-8d9f-7d8d892b4367
+   Area=A208   Joint1=216   Joint2=217   Joint3=242   Joint4=241   GUID=7994b503-bc96-4d91-ade1-b47f7417a8d7
+   Area=A209   Joint1=217   Joint2=218   Joint3=243   Joint4=242   GUID=2d5bffd4-8043-49c9-a4ed-07ef39c3ca84
+   Area=A210   Joint1=218   Joint2=219   Joint3=244   Joint4=243   GUID=d033580c-a45f-464c-8006-81fec507b77f
+   Area=A211   Joint1=219   Joint2=220   Joint3=245   Joint4=244   GUID=b9b503cf-7104-4ce5-af55-0a020e017538
+   Area=A212   Joint1=220   Joint2=221   Joint3=246   Joint4=245   GUID=45c4da6c-bd0f-4ff4-8eef-a53a02250c13
+   Area=A213   Joint1=221   Joint2=222   Joint3=247   Joint4=246   GUID=a7913d19-994f-4fbd-97ab-49bbdf65c438
+   Area=A214   Joint1=222   Joint2=223   Joint3=248   Joint4=247   GUID=11931f2c-3682-48b7-91b0-a79bf10bd46d
+   Area=A215   Joint1=223   Joint2=224   Joint3=249   Joint4=248   GUID=93c23973-5903-414f-9f25-a5e33512721d
+   Area=A216   Joint1=224   Joint2=225   Joint3=250   Joint4=249   GUID=e64de93d-9b88-4412-a640-a7765f9e1c10
+   Area=A217   Joint1=226   Joint2=227   Joint3=252   Joint4=251   GUID=70955e3c-f728-41f4-a448-b6fdd3936cbc
+   Area=A218   Joint1=227   Joint2=228   Joint3=253   Joint4=252   GUID=5ce49e4a-da10-450f-b709-a3d34c9d7b22
+   Area=A219   Joint1=228   Joint2=229   Joint3=254   Joint4=253   GUID=6e0854e2-237d-4f0e-b16e-05b41c75b3a9
+   Area=A220   Joint1=229   Joint2=230   Joint3=255   Joint4=254   GUID=c75c8cab-8b17-496c-9233-fb87f9faee5e
+   Area=A221   Joint1=230   Joint2=231   Joint3=256   Joint4=255   GUID=45b414ab-c6b8-41dd-9a39-13c717935ea1
+   Area=A222   Joint1=231   Joint2=232   Joint3=257   Joint4=256   GUID=6481d37b-6926-4277-b3e6-4ea109c5f779
+   Area=A223   Joint1=232   Joint2=233   Joint3=258   Joint4=257   GUID=f9a9a541-2b0f-46b8-954b-c7d31c0a98a2
+   Area=A224   Joint1=233   Joint2=234   Joint3=259   Joint4=258   GUID=098f0c1a-6745-4591-a8da-493093a5214f
+   Area=A225   Joint1=234   Joint2=235   Joint3=260   Joint4=259   GUID=a5249181-33b8-4c43-acc1-167186a29455
+   Area=A226   Joint1=235   Joint2=236   Joint3=261   Joint4=260   GUID=c38b23f9-8872-4e08-beda-075ce8ee13ed
+   Area=A227   Joint1=236   Joint2=237   Joint3=262   Joint4=261   GUID=08cccc38-0f6c-41dc-978b-27bf15be6579
+   Area=A228   Joint1=237   Joint2=238   Joint3=263   Joint4=262   GUID=618d323d-c3b6-46af-bb4d-5bbc10d1ae7b
+   Area=A229   Joint1=238   Joint2=239   Joint3=264   Joint4=263   GUID=f57989b5-b202-40a2-9960-7a617e65ef41
+   Area=A230   Joint1=239   Joint2=240   Joint3=265   Joint4=264   GUID=8304333e-ea8e-4736-a44d-811631afccb9
+   Area=A231   Joint1=240   Joint2=241   Joint3=266   Joint4=265   GUID=e3d315f0-1060-4c67-bcc4-766d5b0aebc4
+   Area=A232   Joint1=241   Joint2=242   Joint3=267   Joint4=266   GUID=642ae15a-cd6a-4953-b147-61e4feb9c76f
+   Area=A233   Joint1=242   Joint2=243   Joint3=268   Joint4=267   GUID=61a05381-fa92-4f03-bac6-6474b74aee16
+   Area=A234   Joint1=243   Joint2=244   Joint3=269   Joint4=268   GUID=bf751bc4-1bd1-45ab-b1be-8b4ed3fe2055
+   Area=A235   Joint1=244   Joint2=245   Joint3=270   Joint4=269   GUID=5d6d2e26-1da0-4c5b-bb40-04c3a29afe5f
+   Area=A236   Joint1=245   Joint2=246   Joint3=271   Joint4=270   GUID=f265b117-24fa-43ee-ab79-d473860ec177
+   Area=A237   Joint1=246   Joint2=247   Joint3=272   Joint4=271   GUID=46a3536a-1f57-4a9a-bad9-6bbc6dd87913
+   Area=A238   Joint1=247   Joint2=248   Joint3=273   Joint4=272   GUID=6b4e4923-645d-4694-a1d0-1891da6593b4
+   Area=A239   Joint1=248   Joint2=249   Joint3=274   Joint4=273   GUID=eb8d4d5f-5ec1-42e6-8472-c05fc756e91a
+   Area=A240   Joint1=249   Joint2=250   Joint3=275   Joint4=274   GUID=522f0cd1-9a05-4c15-8e82-8f36ddcfe23b
+   Area=A241   Joint1=251   Joint2=252   Joint3=277   Joint4=276   GUID=f4c50c57-387e-45d4-b124-3f1ad8c23257
+   Area=A242   Joint1=252   Joint2=253   Joint3=278   Joint4=277   GUID=fe2aa880-25fa-46da-938b-43e9797ff9e0
+   Area=A243   Joint1=253   Joint2=254   Joint3=279   Joint4=278   GUID=fcb86c61-59a0-47e2-aff2-0d85b824ec19
+   Area=A244   Joint1=254   Joint2=255   Joint3=280   Joint4=279   GUID=ec027f44-37bf-4147-bb39-6c68b11ad959
+   Area=A245   Joint1=255   Joint2=256   Joint3=281   Joint4=280   GUID=b69914d9-b779-4fac-831e-5fc5ef93dc53
+   Area=A246   Joint1=256   Joint2=257   Joint3=282   Joint4=281   GUID=650b86d7-ef01-4ba4-a07b-5dacd0b03be1
+   Area=A247   Joint1=257   Joint2=258   Joint3=283   Joint4=282   GUID=dc0e1b56-fa5a-423f-aabc-a4b7ab806c6d
+   Area=A248   Joint1=258   Joint2=259   Joint3=284   Joint4=283   GUID=3f20e0db-3151-4e02-a093-00db5f8ff7d3
+   Area=A249   Joint1=259   Joint2=260   Joint3=285   Joint4=284   GUID=3becc38e-2081-4eec-972f-aa98d87f77d6
+   Area=A250   Joint1=260   Joint2=261   Joint3=286   Joint4=285   GUID=0d1bec23-2f29-45f4-97a7-8729b7dd99eb
+   Area=A251   Joint1=261   Joint2=262   Joint3=287   Joint4=286   GUID=8c135c81-22b3-4511-bf65-5d737a35ee55
+   Area=A252   Joint1=262   Joint2=263   Joint3=288   Joint4=287   GUID=98db27d5-9281-48ed-9103-372da419051f
+   Area=A253   Joint1=263   Joint2=264   Joint3=289   Joint4=288   GUID=9daf8a5e-b4e5-427f-a064-49d8c317d353
+   Area=A254   Joint1=264   Joint2=265   Joint3=290   Joint4=289   GUID=1369dcbb-060c-4e6a-a366-c1e61f57c7ed
+   Area=A255   Joint1=265   Joint2=266   Joint3=291   Joint4=290   GUID=1b487478-8b31-42ae-8365-f195d82920f8
+   Area=A256   Joint1=266   Joint2=267   Joint3=292   Joint4=291   GUID=dab7f21b-1947-476e-b003-2be48204319f
+   Area=A257   Joint1=267   Joint2=268   Joint3=293   Joint4=292   GUID=de328920-3a80-48a4-a368-96824a3123d0
+   Area=A258   Joint1=268   Joint2=269   Joint3=294   Joint4=293   GUID=a4bca260-348f-40cc-930f-a78af2b5c821
+   Area=A259   Joint1=269   Joint2=270   Joint3=295   Joint4=294   GUID=41a6bcb8-d45c-4378-9fde-c05d1c0744f2
+   Area=A260   Joint1=270   Joint2=271   Joint3=296   Joint4=295   GUID=34e7b942-a175-4986-93ea-77978c6c3480
+   Area=A261   Joint1=271   Joint2=272   Joint3=297   Joint4=296   GUID=ebd7b485-c94a-46b3-b7ee-ba909dc68d44
+   Area=A262   Joint1=272   Joint2=273   Joint3=298   Joint4=297   GUID=47eb8360-176a-4fdd-8c1c-242e9f774006
+   Area=A263   Joint1=273   Joint2=274   Joint3=299   Joint4=298   GUID=af30fb0a-e808-4430-b98a-d39c6b89709f
+   Area=A264   Joint1=274   Joint2=275   Joint3=300   Joint4=299   GUID=16b30a8f-35c4-4d77-b1dc-5d4f4145256f
+   Area=A265   Joint1=276   Joint2=277   Joint3=302   Joint4=301   GUID=5a0885aa-8e70-40e9-a0cf-69101fa21367
+   Area=A266   Joint1=277   Joint2=278   Joint3=303   Joint4=302   GUID=01e190e9-3b55-4a65-b94c-17642bcc90fe
+   Area=A267   Joint1=278   Joint2=279   Joint3=304   Joint4=303   GUID=376764a5-9c7a-43c5-b873-b9aaa50691da
+   Area=A268   Joint1=279   Joint2=280   Joint3=305   Joint4=304   GUID=53598051-a3e7-402b-ae5b-8158a1c188f1
+   Area=A269   Joint1=280   Joint2=281   Joint3=306   Joint4=305   GUID=ddbc5b45-0cff-4bd9-b8a9-8755e7903d93
+   Area=A270   Joint1=281   Joint2=282   Joint3=307   Joint4=306   GUID=019a6dd3-5fce-49cd-a505-b17e1fa8e82a
+   Area=A271   Joint1=282   Joint2=283   Joint3=308   Joint4=307   GUID=6f0ffb4b-8198-4986-a6f3-fbb0c691c491
+   Area=A272   Joint1=283   Joint2=284   Joint3=309   Joint4=308   GUID=61c44357-7078-430d-9d24-92bcf2baa6d6
+   Area=A273   Joint1=284   Joint2=285   Joint3=310   Joint4=309   GUID=9557e8c4-14a7-4206-a47a-be11bbf156fb
+   Area=A274   Joint1=285   Joint2=286   Joint3=311   Joint4=310   GUID=81b6d649-6296-464d-97ff-190ad8e97f72
+   Area=A275   Joint1=286   Joint2=287   Joint3=312   Joint4=311   GUID=e9602670-4282-4656-b73c-0b61567b7f4d
+   Area=A276   Joint1=287   Joint2=288   Joint3=313   Joint4=312   GUID=1c26f396-0b6d-4785-bac3-9f9aa0b71f91
+   Area=A277   Joint1=288   Joint2=289   Joint3=314   Joint4=313   GUID=8e8d14cc-4e8c-4c1a-b64c-dedeccddcd92
+   Area=A278   Joint1=289   Joint2=290   Joint3=315   Joint4=314   GUID=19924742-6adf-4193-af01-0774f39b1d51
+   Area=A279   Joint1=290   Joint2=291   Joint3=316   Joint4=315   GUID=e40b3b38-57ea-4141-b532-a3ecf2b3db0e
+   Area=A280   Joint1=291   Joint2=292   Joint3=317   Joint4=316   GUID=1a777afa-eb26-46a8-9fb5-70a7a7691f1f
+   Area=A281   Joint1=292   Joint2=293   Joint3=318   Joint4=317   GUID=dad10b76-2730-4dc6-99d5-ffc65753e915
+   Area=A282   Joint1=293   Joint2=294   Joint3=319   Joint4=318   GUID=347ecc3a-a3e8-48f8-bcc9-a40270bfd07c
+   Area=A283   Joint1=294   Joint2=295   Joint3=320   Joint4=319   GUID=cac8d963-3233-4f0b-8057-373a5325aae7
+   Area=A284   Joint1=295   Joint2=296   Joint3=321   Joint4=320   GUID=8316d92b-f515-4171-a4c3-fc8c9b5b267c
+   Area=A285   Joint1=296   Joint2=297   Joint3=322   Joint4=321   GUID=e06142f9-e00b-4196-a022-c83cc2c31f15
+   Area=A286   Joint1=297   Joint2=298   Joint3=323   Joint4=322   GUID=72a7abb7-9c8f-4683-a83b-e2747837363f
+   Area=A287   Joint1=298   Joint2=299   Joint3=324   Joint4=323   GUID=20d0dca7-cf2c-4e14-9ee2-eb6c06de79ca
+   Area=A288   Joint1=299   Joint2=300   Joint3=325   Joint4=324   GUID=a88af694-7be1-409f-bbac-9885024b0fe2
+   Area=A289   Joint1=301   Joint2=302   Joint3=327   Joint4=326   GUID=364f2f5c-14c5-41d1-8371-4dc36d3a75b2
+   Area=A290   Joint1=302   Joint2=303   Joint3=328   Joint4=327   GUID=b1436aa9-be91-4426-9d65-fbcd8ace058c
+   Area=A291   Joint1=303   Joint2=304   Joint3=329   Joint4=328   GUID=502a56a3-9120-4ce1-bbcb-d51dbda36ea6
+   Area=A292   Joint1=304   Joint2=305   Joint3=330   Joint4=329   GUID=0aba9585-b69d-4812-b4c4-2db3fdca0af3
+   Area=A293   Joint1=305   Joint2=306   Joint3=331   Joint4=330   GUID=f8d68a4e-dda2-4165-adf3-48b30b29ae8a
+   Area=A294   Joint1=306   Joint2=307   Joint3=332   Joint4=331   GUID=a944cac7-c569-436c-9459-ca3f712ba51d
+   Area=A295   Joint1=307   Joint2=308   Joint3=333   Joint4=332   GUID=cb4f931c-fe8e-4fa2-a3ac-b903eed0150b
+   Area=A296   Joint1=308   Joint2=309   Joint3=334   Joint4=333   GUID=2c49f2cd-102d-4bdb-b8f8-e05eb71494ee
+   Area=A297   Joint1=309   Joint2=310   Joint3=335   Joint4=334   GUID=d18916cc-37c6-48a1-b793-a5893ab527ba
+   Area=A298   Joint1=310   Joint2=311   Joint3=336   Joint4=335   GUID=d92b3a35-5586-4ab4-a942-bd311301743d
+   Area=A299   Joint1=311   Joint2=312   Joint3=337   Joint4=336   GUID=b9f2508f-c56a-444d-beb3-3219c31e35ec
+   Area=A300   Joint1=312   Joint2=313   Joint3=338   Joint4=337   GUID=f40a8966-fab2-428d-9e9f-710d68db907a
+   Area=A301   Joint1=313   Joint2=314   Joint3=339   Joint4=338   GUID=bef25793-9799-474b-86d9-37432de4797a
+   Area=A302   Joint1=314   Joint2=315   Joint3=340   Joint4=339   GUID=e64e5400-bf85-4944-9f10-bca4f259a948
+   Area=A303   Joint1=315   Joint2=316   Joint3=341   Joint4=340   GUID=6d498b64-2261-499d-888f-417aa9a54e88
+   Area=A304   Joint1=316   Joint2=317   Joint3=342   Joint4=341   GUID=17ae09d4-df8e-4cfc-a18e-ee4595070c19
+   Area=A305   Joint1=317   Joint2=318   Joint3=343   Joint4=342   GUID=2f644150-4fec-48c3-9171-0f3fd68c2a4d
+   Area=A306   Joint1=318   Joint2=319   Joint3=344   Joint4=343   GUID=3b54e10b-9dc0-426e-b577-f4bc290525e3
+   Area=A307   Joint1=319   Joint2=320   Joint3=345   Joint4=344   GUID=112b5a77-f155-48e1-b76f-1ec8a419b8cf
+   Area=A308   Joint1=320   Joint2=321   Joint3=346   Joint4=345   GUID=f13026c6-2d00-43a0-ac9e-13aff7b33284
+   Area=A309   Joint1=321   Joint2=322   Joint3=347   Joint4=346   GUID=c38f98f3-605a-400b-8e41-4106e9aac813
+   Area=A310   Joint1=322   Joint2=323   Joint3=348   Joint4=347   GUID=4143f327-c317-4840-ac29-0c4ee3ee504f
+   Area=A311   Joint1=323   Joint2=324   Joint3=349   Joint4=348   GUID=c083ec09-6bde-4f6e-b864-a62221c16dd3
+   Area=A312   Joint1=324   Joint2=325   Joint3=350   Joint4=349   GUID=81bf7612-52ee-4341-81d0-142fee94b7de
+   Area=A313   Joint1=326   Joint2=327   Joint3=352   Joint4=351   GUID=228a64c6-e36f-4354-80c4-37b4a8874868
+   Area=A314   Joint1=327   Joint2=328   Joint3=353   Joint4=352   GUID=074c125c-b8da-4e27-aae5-c08d80018807
+   Area=A315   Joint1=328   Joint2=329   Joint3=354   Joint4=353   GUID=66bb9a6e-6260-4de8-929e-628746732fa4
+   Area=A316   Joint1=329   Joint2=330   Joint3=355   Joint4=354   GUID=733eb0ae-a54a-4548-b848-07f44a666854
+   Area=A317   Joint1=330   Joint2=331   Joint3=356   Joint4=355   GUID=c6b94e03-0bcc-457e-9fd3-9ee47fd69b4d
+   Area=A318   Joint1=331   Joint2=332   Joint3=357   Joint4=356   GUID=ac8be111-8750-4362-ac70-2fbc9536b400
+   Area=A319   Joint1=332   Joint2=333   Joint3=358   Joint4=357   GUID=c79a58eb-ff56-4d72-8f57-352d17cde98d
+   Area=A320   Joint1=333   Joint2=334   Joint3=359   Joint4=358   GUID=a92df89d-86e4-46c6-af99-6f053e2b0fbf
+   Area=A321   Joint1=334   Joint2=335   Joint3=360   Joint4=359   GUID=c821f08a-1f5a-4619-8a71-ddcef4ecd8d1
+   Area=A322   Joint1=335   Joint2=336   Joint3=361   Joint4=360   GUID=71cc5801-0a7d-4a5f-82e8-34458c51d0a7
+   Area=A323   Joint1=336   Joint2=337   Joint3=362   Joint4=361   GUID=c6f64cdc-2765-48e3-8c58-98b59dbbc449
+   Area=A324   Joint1=337   Joint2=338   Joint3=363   Joint4=362   GUID=4699b6ef-1120-4cb7-b00a-33aa77f7a5f0
+   Area=A325   Joint1=338   Joint2=339   Joint3=364   Joint4=363   GUID=fdb5a7d7-35de-41be-87bc-197905ac556c
+   Area=A326   Joint1=339   Joint2=340   Joint3=365   Joint4=364   GUID=0bb91a04-4b15-4989-a749-4b7174e291c9
+   Area=A327   Joint1=340   Joint2=341   Joint3=366   Joint4=365   GUID=82f9a094-04fe-4482-b98d-2945da887952
+   Area=A328   Joint1=341   Joint2=342   Joint3=367   Joint4=366   GUID=6460407e-84ac-443e-b46a-df589676ddb4
+   Area=A329   Joint1=342   Joint2=343   Joint3=368   Joint4=367   GUID=63b0d398-90a5-4902-970a-af96db14502e
+   Area=A330   Joint1=343   Joint2=344   Joint3=369   Joint4=368   GUID=819c9c54-4b1c-414e-bc87-56119ab91e60
+   Area=A331   Joint1=344   Joint2=345   Joint3=370   Joint4=369   GUID=e4c3d044-d047-4a1c-86bf-acf48923de41
+   Area=A332   Joint1=345   Joint2=346   Joint3=371   Joint4=370   GUID=d417ca1c-ff27-4649-8aa8-ae5f05412159
+   Area=A333   Joint1=346   Joint2=347   Joint3=372   Joint4=371   GUID=c68a6d7f-1a29-4d2c-b3a0-cc9715130872
+   Area=A334   Joint1=347   Joint2=348   Joint3=373   Joint4=372   GUID=bfe8d225-1801-4664-9bb3-c01858bce251
+   Area=A335   Joint1=348   Joint2=349   Joint3=374   Joint4=373   GUID=faaf7963-6d4f-4062-b9d2-8c4b6218d360
+   Area=A336   Joint1=349   Joint2=350   Joint3=375   Joint4=374   GUID=479fa2e5-4e23-4100-912f-4a36bbff1654
+   Area=A337   Joint1=351   Joint2=352   Joint3=377   Joint4=376   GUID=48604eb5-01b2-444d-9e37-f1071f9e0220
+   Area=A338   Joint1=352   Joint2=353   Joint3=378   Joint4=377   GUID=6329d956-7396-49d6-b6f7-2fd6c2e7493f
+   Area=A339   Joint1=353   Joint2=354   Joint3=379   Joint4=378   GUID=94153ad9-0a40-4014-ace2-99fc1bdcc283
+   Area=A340   Joint1=354   Joint2=355   Joint3=380   Joint4=379   GUID=327cbd14-08cd-4413-858c-5ab0900999c3
+   Area=A341   Joint1=355   Joint2=356   Joint3=381   Joint4=380   GUID=593802ec-6d3f-49f0-a3b5-00466fc96ded
+   Area=A342   Joint1=356   Joint2=357   Joint3=382   Joint4=381   GUID=c57410eb-ee3d-45a4-b60f-b1999ebd14ff
+   Area=A343   Joint1=357   Joint2=358   Joint3=383   Joint4=382   GUID=a2e09363-07d0-48ec-9dc5-9163cfeebff5
+   Area=A344   Joint1=358   Joint2=359   Joint3=384   Joint4=383   GUID=bf60e820-8e7a-4474-8947-f58d1acdd198
+   Area=A345   Joint1=359   Joint2=360   Joint3=385   Joint4=384   GUID=48b2d3ba-c39b-4741-a6e3-6ac8e2ea5134
+   Area=A346   Joint1=360   Joint2=361   Joint3=386   Joint4=385   GUID=db2b877d-4dd5-472e-840a-97dc750fb351
+   Area=A347   Joint1=361   Joint2=362   Joint3=387   Joint4=386   GUID=fa0af700-9a60-41c0-93c3-412ce0b8b38c
+   Area=A348   Joint1=362   Joint2=363   Joint3=388   Joint4=387   GUID=138e0e3f-7635-44e5-b74d-1a6a045fc21b
+   Area=A349   Joint1=363   Joint2=364   Joint3=389   Joint4=388   GUID=dbdbc046-d9cd-41ba-b90f-26d029e35bf0
+   Area=A350   Joint1=364   Joint2=365   Joint3=390   Joint4=389   GUID=f95b1296-c0ef-4cc9-9bb4-2b9278a61c71
+   Area=A351   Joint1=365   Joint2=366   Joint3=391   Joint4=390   GUID=5d5ea339-d9bc-437e-9043-1ef6ccf2a33b
+   Area=A352   Joint1=366   Joint2=367   Joint3=392   Joint4=391   GUID=1f972da4-0319-4c8d-849c-765778569e28
+   Area=A353   Joint1=367   Joint2=368   Joint3=393   Joint4=392   GUID=935b11ee-4421-4e70-b7fd-028ea9e7479d
+   Area=A354   Joint1=368   Joint2=369   Joint3=394   Joint4=393   GUID=0695d9b3-c9b8-4c08-8750-407d00306776
+   Area=A355   Joint1=369   Joint2=370   Joint3=395   Joint4=394   GUID=0609ba8c-eb65-45a1-8fe2-c656f7c3798f
+   Area=A356   Joint1=370   Joint2=371   Joint3=396   Joint4=395   GUID=fed9c4ab-43e0-4435-913f-f8d67c127c27
+   Area=A357   Joint1=371   Joint2=372   Joint3=397   Joint4=396   GUID=348fa6a7-006b-4ab6-a45c-154f6bb75e8b
+   Area=A358   Joint1=372   Joint2=373   Joint3=398   Joint4=397   GUID=8a923ca3-7698-4118-b984-c0b06a12c537
+   Area=A359   Joint1=373   Joint2=374   Joint3=399   Joint4=398   GUID=21f8cc61-1761-43d8-9065-8a64e918bce3
+   Area=A360   Joint1=374   Joint2=375   Joint3=400   Joint4=399   GUID=e2f834b9-f77e-4e4d-92de-e37e092a343b
+   Area=A361   Joint1=376   Joint2=377   Joint3=402   Joint4=401   GUID=7b4dad31-4b76-4c27-83b8-17f7b75f3af1
+   Area=A362   Joint1=377   Joint2=378   Joint3=403   Joint4=402   GUID=801864f9-e6ec-4ba5-94c7-47e1448af21b
+   Area=A363   Joint1=378   Joint2=379   Joint3=404   Joint4=403   GUID=35e38ed7-a5c5-41a9-8b59-9ca5664a96e2
+   Area=A364   Joint1=379   Joint2=380   Joint3=405   Joint4=404   GUID=fce9b878-cfe9-4ad0-b58d-59ac35bca0db
+   Area=A365   Joint1=380   Joint2=381   Joint3=406   Joint4=405   GUID=f60153a7-a6f7-421b-8196-95cdda7cc172
+   Area=A366   Joint1=381   Joint2=382   Joint3=407   Joint4=406   GUID=6ba8e9ea-07da-4817-a1d5-9bff888115a9
+   Area=A367   Joint1=382   Joint2=383   Joint3=408   Joint4=407   GUID=50037ef7-d615-488a-a9e0-f36feb15d513
+   Area=A368   Joint1=383   Joint2=384   Joint3=409   Joint4=408   GUID=1bf601e7-b571-4488-9cb9-43e2010f3ed6
+   Area=A369   Joint1=384   Joint2=385   Joint3=410   Joint4=409   GUID=7b63760c-c6cd-4316-b3e9-ba9746207eff
+   Area=A370   Joint1=385   Joint2=386   Joint3=411   Joint4=410   GUID=a5e5f6d6-75d6-42d9-a1e3-23e09520a321
+   Area=A371   Joint1=386   Joint2=387   Joint3=412   Joint4=411   GUID=aad44de8-ee93-4022-a6d5-91c18731e429
+   Area=A372   Joint1=387   Joint2=388   Joint3=413   Joint4=412   GUID=c517b004-0420-483e-a508-32444b24fd67
+   Area=A373   Joint1=388   Joint2=389   Joint3=414   Joint4=413   GUID=0e772f8b-a683-4900-8b40-9ac9f6f39ec9
+   Area=A374   Joint1=389   Joint2=390   Joint3=415   Joint4=414   GUID=918446a7-6393-4b13-9185-50f44e493025
+   Area=A375   Joint1=390   Joint2=391   Joint3=416   Joint4=415   GUID=93cdab6c-e17b-48e2-8fba-d7a64aa27986
+   Area=A376   Joint1=391   Joint2=392   Joint3=417   Joint4=416   GUID=580eb9e6-8ba6-4907-9f64-828e3adeae41
+   Area=A377   Joint1=392   Joint2=393   Joint3=418   Joint4=417   GUID=9830ccad-a5a0-46cd-a532-89dea1365c0c
+   Area=A378   Joint1=393   Joint2=394   Joint3=419   Joint4=418   GUID=1fe7b19d-056d-4bf1-948d-3ab80c2a0e51
+   Area=A379   Joint1=394   Joint2=395   Joint3=420   Joint4=419   GUID=dc3f677c-85bd-4b72-b173-e45bb9c144ec
+   Area=A380   Joint1=395   Joint2=396   Joint3=421   Joint4=420   GUID=2cffa124-0f85-47e7-a3e5-eaf900f974d8
+   Area=A381   Joint1=396   Joint2=397   Joint3=422   Joint4=421   GUID=03a8c567-2e84-4d10-8dd1-6d6a91f6e31d
+   Area=A382   Joint1=397   Joint2=398   Joint3=423   Joint4=422   GUID=e2ff254f-d140-4180-a53b-054b4f6c5b94
+   Area=A383   Joint1=398   Joint2=399   Joint3=424   Joint4=423   GUID=afd60b25-dd1d-44ff-a048-3c1070616dc5
+   Area=A384   Joint1=399   Joint2=400   Joint3=425   Joint4=424   GUID=002918de-7d67-4198-b83c-cf5993894d88
+ 
+TABLE:  "COORDINATE SYSTEMS"
+   Name=GLOBAL   Type=Cartesian   X=0   Y=0   Z=0   AboutZ=0   AboutY=0   AboutX=0
+ 
+TABLE:  "DATABASE DOCUMENTATION"
+ 
+TABLE:  "DATABASE FORMAT TYPES"
+   UnitsCurr=Yes   OverrideE=No
+ 
+TABLE:  "FUNCTION - PLOT FUNCTIONS"
+   PlotFunc="Input Energy"   Type=Energy   Component=Input   Mode=All
+ 
+TABLE:  "FUNCTION - POWER SPECTRAL DENSITY - USER"
+   Name=UNIFPSD   Frequency=0   Value=1
+   Name=UNIFPSD   Frequency=1   Value=1
+ 
+TABLE:  "FUNCTION - RESPONSE SPECTRUM - USER"
+   Name=UNIFRS   Period=0   Accel=1   FuncDamp=0.05
+   Name=UNIFRS   Period=1   Accel=1
+ 
+TABLE:  "FUNCTION - STEADY STATE - USER"
+   Name=UNIFSS   Frequency=0   Value=1
+   Name=UNIFSS   Frequency=1   Value=1
+ 
+TABLE:  "FUNCTION - TIME HISTORY - USER"
+   Name=RAMPTH   Time=0   Value=0
+   Name=RAMPTH   Time=1   Value=1
+   Name=RAMPTH   Time=4   Value=1
+   Name=UNIFTH   Time=0   Value=1
+   Name=UNIFTH   Time=1   Value=1
+ 
+TABLE:  "GROUPS 1 - DEFINITIONS"
+   GroupName=ALL   Selection=Yes   SectionCut=Yes   Steel=Yes   Concrete=Yes   Aluminum=Yes   ColdFormed=Yes   Stage=Yes   Bridge=Yes   AutoSeismic=No   AutoWind=No   SelDesSteel=No   SelDesAlum=No   SelDesCold=No   MassWeight=Yes   Color=Red
+ 
+TABLE:  "JOINT COORDINATES"
+   Joint=1   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=0   Z=0   SpecialJt=Yes   GUID=1851e9e4-7d58-4373-9d99-631c8a4a0840
+   Joint=2   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=0   Z=0   SpecialJt=Yes   GUID=eb107215-cfdb-46cb-a146-90e1104c4ede
+   Joint=3   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=0   Z=0   SpecialJt=Yes   GUID=fcee3fe3-0c04-4569-8839-9751683152a8
+   Joint=4   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=0   Z=0   SpecialJt=Yes   GUID=f003c471-6810-4657-bae5-a31efbe84666
+   Joint=5   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=0   Z=0   SpecialJt=Yes   GUID=229b94c9-2577-4c2f-b53a-c02e0e3c57d2
+   Joint=6   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=0   Z=0   SpecialJt=Yes   GUID=735231cb-d2b9-4bae-8951-cc511cef5ba3
+   Joint=7   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=0   Z=0   SpecialJt=Yes   GUID=b5c062f7-89f4-4f1c-8592-3adfc87b6c0e
+   Joint=8   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=0   Z=0   SpecialJt=Yes   GUID=818183be-9c32-448d-aaeb-742a2baea770
+   Joint=9   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=0   Z=0   SpecialJt=Yes   GUID=acb13f0c-e5ee-47c2-a942-b8dd607fca39
+   Joint=10   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=0   Z=0   SpecialJt=Yes   GUID=bf669df9-24cd-4528-98e7-51d2f7625524
+   Joint=11   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=0   Z=0   SpecialJt=Yes   GUID=f2c92a9f-8891-4039-b13a-74995147a105
+   Joint=12   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=0   Z=0   SpecialJt=Yes   GUID=112170a5-5b03-4e55-b29f-c4745d662b16
+   Joint=13   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=0   Z=0   SpecialJt=Yes   GUID=556fda0f-3e98-46ca-9256-39d0fbcd7088
+   Joint=14   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=0   Z=0   SpecialJt=Yes   GUID=0ef75fc3-e082-40f1-8294-4dea2a67dbb7
+   Joint=15   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=0   Z=0   SpecialJt=Yes   GUID=c277c18f-ac73-41d7-b451-7f82cb9aafeb
+   Joint=16   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=0   Z=0   SpecialJt=Yes   GUID=5cc7cfda-9a78-4f59-9501-9a8d79987a2a
+   Joint=17   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=0   Z=0   SpecialJt=Yes   GUID=cf8e1783-4a4b-4a4a-ac3e-59909d245faa
+   Joint=18   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=0   Z=0   SpecialJt=Yes   GUID=51990050-3a65-4f39-9fa1-7ea89704b022
+   Joint=19   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=0   Z=0   SpecialJt=Yes   GUID=c5217af1-7429-4494-b84d-25edc2c594e8
+   Joint=20   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=0   Z=0   SpecialJt=Yes   GUID=c287bfe3-5520-4171-aa62-1fab99c3ae8f
+   Joint=21   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=0   Z=0   SpecialJt=Yes   GUID=8555f973-c2fb-4428-afa9-60b8c006c31f
+   Joint=22   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=0   Z=0   SpecialJt=Yes   GUID=3b1873b9-0091-4f5e-b7a9-953963413b47
+   Joint=23   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=0   Z=0   SpecialJt=Yes   GUID=e0e1e316-21e1-4bcb-ae27-91816cb90171
+   Joint=24   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=0   Z=0   SpecialJt=Yes   GUID=12d607cf-d5a3-49a5-83b6-ef13137ce1bc
+   Joint=25   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=0   Z=0   SpecialJt=Yes   GUID=e0def866-bb1c-471e-b50d-7ba31dd9f444
+   Joint=26   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=0.25   Z=0   SpecialJt=Yes   GUID=5bba8739-68ed-451d-90f2-0d9a2a35c25b
+   Joint=27   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=0.25   Z=0   SpecialJt=Yes   GUID=632032f7-dfcf-4294-80f6-80f7bfe27694
+   Joint=28   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=0.25   Z=0   SpecialJt=Yes   GUID=28ebe395-a553-4ed6-9a51-e90a7bbee1b2
+   Joint=29   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=0.25   Z=0   SpecialJt=Yes   GUID=65008091-5322-4a24-878e-68c01d5091b2
+   Joint=30   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=0.25   Z=0   SpecialJt=Yes   GUID=e92b3a82-b580-44ab-9215-0849ba02e383
+   Joint=31   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=0.25   Z=0   SpecialJt=Yes   GUID=a4079e35-650c-4f45-ab1d-e5a0c1e833b1
+   Joint=32   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=0.25   Z=0   SpecialJt=Yes   GUID=d4bfe39d-75da-4710-989a-67d6aac9fb8e
+   Joint=33   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=0.25   Z=0   SpecialJt=Yes   GUID=9b7d4058-efd6-44f3-a9f1-f41b47af4dcc
+   Joint=34   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=0.25   Z=0   SpecialJt=Yes   GUID=96669039-26b1-4d19-8fe1-666a5ad7b0a8
+   Joint=35   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=0.25   Z=0   SpecialJt=Yes   GUID=41d52bad-5985-4ad7-9dd4-15b218790539
+   Joint=36   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=0.25   Z=0   SpecialJt=Yes   GUID=c4012a70-c4f7-4bda-923d-03428ec4052a
+   Joint=37   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=0.25   Z=0   SpecialJt=Yes   GUID=69cbedb8-77da-469e-8c62-048fae8277dc
+   Joint=38   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=0.25   Z=0   SpecialJt=Yes   GUID=e83d3a5f-08de-4315-95a0-d2ec88bf7c8b
+   Joint=39   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=0.25   Z=0   SpecialJt=Yes   GUID=5327d0ee-1944-428e-8442-034c4889c0fc
+   Joint=40   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=0.25   Z=0   SpecialJt=Yes   GUID=bda3db41-7764-4ffd-97d1-fcb0401eca96
+   Joint=41   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=0.25   Z=0   SpecialJt=Yes   GUID=107e74d4-7592-4000-852b-0abe2cbf5d0f
+   Joint=42   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=0.25   Z=0   SpecialJt=Yes   GUID=12199ab7-6f96-4ab2-821f-e51c1fdf7a86
+   Joint=43   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=0.25   Z=0   SpecialJt=Yes   GUID=afbcf97f-92b5-4da4-b799-277b7e29dd01
+   Joint=44   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=0.25   Z=0   SpecialJt=Yes   GUID=157209c9-3be3-495f-898a-631963382e85
+   Joint=45   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=0.25   Z=0   SpecialJt=Yes   GUID=43c455f1-7cfc-474b-b218-1eba402eb1e2
+   Joint=46   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=0.25   Z=0   SpecialJt=Yes   GUID=3e8eaeb9-f723-4433-bf3e-e28dc4ef2f32
+   Joint=47   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=0.25   Z=0   SpecialJt=Yes   GUID=00750e27-15ca-4c56-adb3-0045314a2e67
+   Joint=48   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=0.25   Z=0   SpecialJt=Yes   GUID=61683db3-c8d1-4a41-a9e3-d6360b82513c
+   Joint=49   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=0.25   Z=0   SpecialJt=Yes   GUID=f8f226c8-960f-417b-8b6f-447bf8ef31cf
+   Joint=50   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=0.25   Z=0   SpecialJt=Yes   GUID=533facae-e788-4cd1-b37b-e211145a8fca
+   Joint=51   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=0.5   Z=0   SpecialJt=Yes   GUID=4540156b-a0ea-435f-93bb-62210aa196d3
+   Joint=52   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=0.5   Z=0   SpecialJt=Yes   GUID=b7a1bd17-0ee1-4d8b-b711-49cd4563e5b2
+   Joint=53   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=0.5   Z=0   SpecialJt=Yes   GUID=864a3151-1d55-4fd1-bc8d-d2fa42b4e033
+   Joint=54   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=0.5   Z=0   SpecialJt=Yes   GUID=9e1232e0-bc9e-4961-957e-469d22a38bd9
+   Joint=55   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=0.5   Z=0   SpecialJt=Yes   GUID=ff5c86b0-f953-4f4a-af50-02102d4a6270
+   Joint=56   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=0.5   Z=0   SpecialJt=Yes   GUID=aa1faddf-0a06-48ff-9fd4-d376fd05da7f
+   Joint=57   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=0.5   Z=0   SpecialJt=Yes   GUID=e71de359-d1f4-4a6d-8437-19aeebbe9ba6
+   Joint=58   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=0.5   Z=0   SpecialJt=Yes   GUID=590b97e4-450a-4e5f-a878-4bd04431949c
+   Joint=59   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=0.5   Z=0   SpecialJt=Yes   GUID=44791bcf-f503-4757-8526-0cdab7e17758
+   Joint=60   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=0.5   Z=0   SpecialJt=Yes   GUID=4d671fde-5a3c-442d-811e-0e399b62f559
+   Joint=61   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=0.5   Z=0   SpecialJt=Yes   GUID=905ab492-6ccf-4a48-8238-7c48d0791776
+   Joint=62   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=0.5   Z=0   SpecialJt=Yes   GUID=00cb14a8-d7a1-4a59-9d92-9553d847dda6
+   Joint=63   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=0.5   Z=0   SpecialJt=Yes   GUID=66ea3d92-709d-4de7-88ac-c75f1dafeb4d
+   Joint=64   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=0.5   Z=0   SpecialJt=Yes   GUID=2068e642-a806-4e01-8f32-8f72b18e7d11
+   Joint=65   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=0.5   Z=0   SpecialJt=Yes   GUID=ca931225-7030-49f2-82a9-5835b4c209ea
+   Joint=66   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=0.5   Z=0   SpecialJt=Yes   GUID=ab73878f-b17a-4a78-bd59-c210f2c4cdf3
+   Joint=67   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=0.5   Z=0   SpecialJt=Yes   GUID=21f97aa1-42ff-4510-8b1e-4a11c3db09b0
+   Joint=68   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=0.5   Z=0   SpecialJt=Yes   GUID=6de8f594-1e6d-4fca-8991-bef8d56a9a8b
+   Joint=69   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=0.5   Z=0   SpecialJt=Yes   GUID=4c9e6212-8e65-4f12-a818-cc3df3c53b71
+   Joint=70   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=0.5   Z=0   SpecialJt=Yes   GUID=8e9d876e-f4db-4d6f-a64e-c73cb1de46b6
+   Joint=71   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=0.5   Z=0   SpecialJt=Yes   GUID=d0698f0a-97ad-4ccd-9dbf-a12c73ecc037
+   Joint=72   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=0.5   Z=0   SpecialJt=Yes   GUID=98be6ac5-49c8-40be-8664-bb4a2f96ab9f
+   Joint=73   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=0.5   Z=0   SpecialJt=Yes   GUID=28e6d387-24b8-40fc-ab1d-1fa6434e179b
+   Joint=74   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=0.5   Z=0   SpecialJt=Yes   GUID=a377ac9b-98cf-4e64-9ea3-90475b4a1e23
+   Joint=75   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=0.5   Z=0   SpecialJt=Yes   GUID=c64649f9-8b3a-4056-b566-644e5c6c8757
+   Joint=76   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=0.75   Z=0   SpecialJt=Yes   GUID=199da08c-189a-4349-8f1d-2f98e46e5e5d
+   Joint=77   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=0.75   Z=0   SpecialJt=Yes   GUID=5d7629a6-ac15-4273-ad2f-567ac084246a
+   Joint=78   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=0.75   Z=0   SpecialJt=Yes   GUID=3211ea5f-8fa1-4350-8399-252aa29772b0
+   Joint=79   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=0.75   Z=0   SpecialJt=Yes   GUID=6e12d729-1e20-4ea5-a176-e59a98077e96
+   Joint=80   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=0.75   Z=0   SpecialJt=Yes   GUID=2cd9f8af-333e-481a-86c5-a3d1d50e6d51
+   Joint=81   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=0.75   Z=0   SpecialJt=Yes   GUID=d8a94231-0e80-4aef-aee6-77834885f136
+   Joint=82   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=0.75   Z=0   SpecialJt=Yes   GUID=55345900-d36a-4048-b3fe-adb84a56ca9b
+   Joint=83   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=0.75   Z=0   SpecialJt=Yes   GUID=17490797-edf5-4add-b3e8-2c6a06225ab1
+   Joint=84   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=0.75   Z=0   SpecialJt=Yes   GUID=7b4de0e5-8ba4-4eef-986f-b0aad05280b9
+   Joint=85   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=0.75   Z=0   SpecialJt=Yes   GUID=e64edb24-7aec-4956-a424-ec3042bda29a
+   Joint=86   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=0.75   Z=0   SpecialJt=Yes   GUID=88f177a9-e3bc-4fbc-9dd5-100f6e3016c5
+   Joint=87   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=0.75   Z=0   SpecialJt=Yes   GUID=e7c26ac3-a0db-4c56-bef2-b97ede0c9998
+   Joint=88   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=0.75   Z=0   SpecialJt=Yes   GUID=9c46f1dd-1af8-46bf-8a9e-98ae396d5f27
+   Joint=89   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=0.75   Z=0   SpecialJt=Yes   GUID=744787bb-43b4-47fe-8b3d-35d1bfc27f16
+   Joint=90   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=0.75   Z=0   SpecialJt=Yes   GUID=0589c8f4-f7d9-42ac-b893-c1a726a83c7f
+   Joint=91   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=0.75   Z=0   SpecialJt=Yes   GUID=b7550455-72c6-413f-94ee-f1353bbad787
+   Joint=92   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=0.75   Z=0   SpecialJt=Yes   GUID=4e137304-9656-48e2-81c8-0069144eb27c
+   Joint=93   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=0.75   Z=0   SpecialJt=Yes   GUID=48ac7ab8-2a8b-497f-8413-65b22acd4a49
+   Joint=94   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=0.75   Z=0   SpecialJt=Yes   GUID=62be86df-d41a-453b-baa9-81fcc2be0dab
+   Joint=95   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=0.75   Z=0   SpecialJt=Yes   GUID=a43268df-7ef6-4360-9df1-af9e97c2655e
+   Joint=96   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=0.75   Z=0   SpecialJt=Yes   GUID=d17788e3-1ac1-4147-adeb-844a5db80dc5
+   Joint=97   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=0.75   Z=0   SpecialJt=Yes   GUID=2b3da438-f711-4aee-a578-d4b3177141bd
+   Joint=98   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=0.75   Z=0   SpecialJt=Yes   GUID=572895bb-3377-474a-a5e8-eb36b0f4a911
+   Joint=99   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=0.75   Z=0   SpecialJt=Yes   GUID=b803192f-6e04-4802-9b31-35633de77c54
+   Joint=100   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=0.75   Z=0   SpecialJt=Yes   GUID=1c11241b-6f25-4bac-9228-dfc1fe11f74b
+   Joint=101   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=1   Z=0   SpecialJt=Yes   GUID=2ba66b87-f8fc-426f-bb07-dd9c596caac4
+   Joint=102   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=1   Z=0   SpecialJt=Yes   GUID=0061081c-5bac-48cf-b411-c9d2d26caea1
+   Joint=103   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=1   Z=0   SpecialJt=Yes   GUID=f3f2737c-3162-426d-b62e-5703f5266cf8
+   Joint=104   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=1   Z=0   SpecialJt=Yes   GUID=ab1dae0d-b228-4251-be02-668d8ab13be1
+   Joint=105   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=1   Z=0   SpecialJt=Yes   GUID=7fa02708-8e4c-4d5c-b053-5351737f7695
+   Joint=106   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=1   Z=0   SpecialJt=Yes   GUID=77f78262-59ab-4f20-a99a-38084457a4aa
+   Joint=107   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=1   Z=0   SpecialJt=Yes   GUID=359a9920-36c0-46e3-a5e6-f28506da4d20
+   Joint=108   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=1   Z=0   SpecialJt=Yes   GUID=afa0272e-f1a5-4c9b-89c1-496db6593efa
+   Joint=109   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=1   Z=0   SpecialJt=Yes   GUID=c3ffad93-88e3-4a08-a535-2ef81b65415a
+   Joint=110   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=1   Z=0   SpecialJt=Yes   GUID=ddc9e7e3-6fee-4ff7-8f0a-5b5589bfccc4
+   Joint=111   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=1   Z=0   SpecialJt=Yes   GUID=88e073c5-ebd0-496e-8dcb-ba431be4cdef
+   Joint=112   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=1   Z=0   SpecialJt=Yes   GUID=6779d224-7aef-4b41-a6a1-1a2cf60f68db
+   Joint=113   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=1   Z=0   SpecialJt=Yes   GUID=136166a6-d7a4-48db-a3e1-a8fb9acb486f
+   Joint=114   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=1   Z=0   SpecialJt=Yes   GUID=e3238c42-f385-4865-a9bd-ecee3bdae769
+   Joint=115   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=1   Z=0   SpecialJt=Yes   GUID=b57f376e-bfec-4537-a449-2c43b5d48ad9
+   Joint=116   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=1   Z=0   SpecialJt=Yes   GUID=84fd7c8b-3257-4a68-8c0d-e20e556c861e
+   Joint=117   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=1   Z=0   SpecialJt=Yes   GUID=70b09e87-29a5-4c6e-bd8c-53994c0fed88
+   Joint=118   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=1   Z=0   SpecialJt=Yes   GUID=d310961e-3a49-4847-bd88-a1fde703e485
+   Joint=119   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=1   Z=0   SpecialJt=Yes   GUID=c1819a4c-8903-4d43-b80d-3ab9dfa6c3d2
+   Joint=120   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=1   Z=0   SpecialJt=Yes   GUID=07877f7c-546a-45d6-89f1-b78d34dccac9
+   Joint=121   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=1   Z=0   SpecialJt=Yes   GUID=70dc22c6-a3dd-414f-8cd1-50f1ff479f42
+   Joint=122   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=1   Z=0   SpecialJt=Yes   GUID=69dab56a-b19f-4975-b5d4-cf3186842434
+   Joint=123   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=1   Z=0   SpecialJt=Yes   GUID=e4c633e7-a514-43a2-bac7-710866f78e50
+   Joint=124   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=1   Z=0   SpecialJt=Yes   GUID=6da83b8e-8734-4efb-b545-5676cef63383
+   Joint=125   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=1   Z=0   SpecialJt=Yes   GUID=20c400f3-d3a3-4b25-94db-b2623b504360
+   Joint=126   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=1.25   Z=0   SpecialJt=Yes   GUID=cab779e3-8ad7-4821-b5d2-975b65d564df
+   Joint=127   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=1.25   Z=0   SpecialJt=Yes   GUID=deef1f5c-8314-41d1-8fb0-4b84c7ade4e3
+   Joint=128   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=1.25   Z=0   SpecialJt=Yes   GUID=983ed603-4da2-4ece-8c3f-e932bb03145e
+   Joint=129   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=1.25   Z=0   SpecialJt=Yes   GUID=2ffc30f4-bb52-4562-a01e-9db269715dc8
+   Joint=130   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=1.25   Z=0   SpecialJt=Yes   GUID=03310c60-01ea-465f-ab46-c5f592e23085
+   Joint=131   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=1.25   Z=0   SpecialJt=Yes   GUID=ba7feea1-a64c-40c2-a7d3-66332533e80b
+   Joint=132   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=1.25   Z=0   SpecialJt=Yes   GUID=69dd1ba3-47eb-4c77-ac0e-1552702f5fbd
+   Joint=133   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=1.25   Z=0   SpecialJt=Yes   GUID=8daf4650-b458-4951-99ba-bf289ed3c739
+   Joint=134   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=1.25   Z=0   SpecialJt=Yes   GUID=ced9e02f-1267-4d49-9d84-31840fcace97
+   Joint=135   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=1.25   Z=0   SpecialJt=Yes   GUID=01df9924-e8a3-495a-baee-f8280572e1ad
+   Joint=136   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=1.25   Z=0   SpecialJt=Yes   GUID=cc2d9d65-5e1e-4f1f-86bd-eb78cdfa4151
+   Joint=137   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=1.25   Z=0   SpecialJt=Yes   GUID=b4db3dfe-0ada-4a0e-b43a-cc89e6ee0cb6
+   Joint=138   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=1.25   Z=0   SpecialJt=Yes   GUID=f0c5faeb-1142-4763-b8f5-99be361f9a93
+   Joint=139   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=1.25   Z=0   SpecialJt=Yes   GUID=8c7310c2-86be-434d-aed9-4ce9319ab0f7
+   Joint=140   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=1.25   Z=0   SpecialJt=Yes   GUID=14f9d2c3-c5c3-4735-bd7d-e7428fe05e16
+   Joint=141   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=1.25   Z=0   SpecialJt=Yes   GUID=c2a41b8f-a37a-4538-9ba3-aca60540c40a
+   Joint=142   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=1.25   Z=0   SpecialJt=Yes   GUID=e6ef02f6-62ea-4557-9a1b-1f2ef8126ee7
+   Joint=143   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=1.25   Z=0   SpecialJt=Yes   GUID=62c71347-362f-47d2-81a7-8b669c17a225
+   Joint=144   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=1.25   Z=0   SpecialJt=Yes   GUID=23e5a036-caf0-45b9-a069-b97a23095032
+   Joint=145   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=1.25   Z=0   SpecialJt=Yes   GUID=cc9b8b2c-838f-4e88-b968-9d1231ff38cf
+   Joint=146   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=1.25   Z=0   SpecialJt=Yes   GUID=b7b9c429-e3bc-47bc-b560-4c83c713af97
+   Joint=147   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=1.25   Z=0   SpecialJt=Yes   GUID=509ca468-cef0-4778-879e-0d8193c62f68
+   Joint=148   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=1.25   Z=0   SpecialJt=Yes   GUID=ac12e3aa-7520-4d1c-b628-9c935c718154
+   Joint=149   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=1.25   Z=0   SpecialJt=Yes   GUID=293f3f51-ac9f-41b9-b921-c78589ececef
+   Joint=150   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=1.25   Z=0   SpecialJt=Yes   GUID=0fe28c12-bedb-4ecd-a263-5a90410d1871
+   Joint=151   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=1.5   Z=0   SpecialJt=Yes   GUID=1dbc78f5-973c-4d75-a097-88818f63e592
+   Joint=152   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=1.5   Z=0   SpecialJt=Yes   GUID=5b191fa1-9e91-4541-90bd-5858804a5a8b
+   Joint=153   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=1.5   Z=0   SpecialJt=Yes   GUID=363a0f00-8ed1-4085-992f-1f148aec6f19
+   Joint=154   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=1.5   Z=0   SpecialJt=Yes   GUID=743831f4-8bb5-49d3-a51b-cc740588ad6d
+   Joint=155   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=1.5   Z=0   SpecialJt=Yes   GUID=772234a6-8ce2-4f87-a28b-4177f3b39aaf
+   Joint=156   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=1.5   Z=0   SpecialJt=Yes   GUID=f290713e-57e1-4127-898c-92ece7b73e53
+   Joint=157   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=1.5   Z=0   SpecialJt=Yes   GUID=7b85e5d5-c290-47ae-9494-2b83d8b7f37d
+   Joint=158   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=1.5   Z=0   SpecialJt=Yes   GUID=14930539-5e20-45f4-a7ab-aa3865bc922a
+   Joint=159   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=1.5   Z=0   SpecialJt=Yes   GUID=970b99ba-6b4a-4b9b-a8b3-57da54af6669
+   Joint=160   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=1.5   Z=0   SpecialJt=Yes   GUID=e567eb0e-02ee-4254-8d33-5aa9a66b2d54
+   Joint=161   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=1.5   Z=0   SpecialJt=Yes   GUID=48820a3d-452f-41e8-b2ce-45879b9a41f5
+   Joint=162   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=1.5   Z=0   SpecialJt=Yes   GUID=56972ba9-e894-4d9f-bab3-232188a8388c
+   Joint=163   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=1.5   Z=0   SpecialJt=Yes   GUID=e72de20a-2310-43f5-8323-40947efe1755
+   Joint=164   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=1.5   Z=0   SpecialJt=Yes   GUID=f300e2f0-ead7-4046-83a7-7c067ae85167
+   Joint=165   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=1.5   Z=0   SpecialJt=Yes   GUID=5e9f1c11-2094-49c6-a451-31ef9ac8955e
+   Joint=166   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=1.5   Z=0   SpecialJt=Yes   GUID=7c584567-ad89-406f-b0be-bf10790d994d
+   Joint=167   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=1.5   Z=0   SpecialJt=Yes   GUID=129e0898-ccf2-4164-a16d-683b2c6f3545
+   Joint=168   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=1.5   Z=0   SpecialJt=Yes   GUID=536e6098-313e-4099-910e-76c7b49f6eda
+   Joint=169   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=1.5   Z=0   SpecialJt=Yes   GUID=f57f9e06-986e-421f-979a-70d03a52ebe2
+   Joint=170   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=1.5   Z=0   SpecialJt=Yes   GUID=2fe2c13e-b8d6-4fcc-b123-25c26772ea0c
+   Joint=171   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=1.5   Z=0   SpecialJt=Yes   GUID=2f6190d8-252c-4d6d-bcb2-cb951f6182a7
+   Joint=172   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=1.5   Z=0   SpecialJt=Yes   GUID=fad48141-c0d9-4bd0-a567-4cabff65daa5
+   Joint=173   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=1.5   Z=0   SpecialJt=Yes   GUID=4bdc934d-9a56-4822-949d-1ded757f8b67
+   Joint=174   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=1.5   Z=0   SpecialJt=Yes   GUID=791df430-cded-465f-aca3-f636ec44ab0c
+   Joint=175   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=1.5   Z=0   SpecialJt=Yes   GUID=754b6331-a116-4e3b-889c-734440a33cb3
+   Joint=176   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=1.75   Z=0   SpecialJt=Yes   GUID=447e1173-d263-4799-ac1c-17c82c9861d9
+   Joint=177   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=1.75   Z=0   SpecialJt=Yes   GUID=611f118f-0eb0-492a-9235-9baa64032da4
+   Joint=178   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=1.75   Z=0   SpecialJt=Yes   GUID=f981bb7b-9bb4-4db2-8160-748c3bd14153
+   Joint=179   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=1.75   Z=0   SpecialJt=Yes   GUID=6ff4c133-abb1-4610-bc0b-fe71a9f44448
+   Joint=180   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=1.75   Z=0   SpecialJt=Yes   GUID=dec6491a-8e6d-4a0f-8043-3d65ebad7ba7
+   Joint=181   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=1.75   Z=0   SpecialJt=Yes   GUID=f5631ad6-e136-46f3-921a-954533dae170
+   Joint=182   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=1.75   Z=0   SpecialJt=Yes   GUID=73a53459-2626-416b-9817-102c1cfb4c15
+   Joint=183   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=1.75   Z=0   SpecialJt=Yes   GUID=e15dabb2-fd15-4ca1-a2ba-83d5fcd7c1b8
+   Joint=184   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=1.75   Z=0   SpecialJt=Yes   GUID=64629ae8-6e4b-4aad-90b2-5ab3c0cbe9f9
+   Joint=185   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=1.75   Z=0   SpecialJt=Yes   GUID=cc46f996-d164-4e4f-84e2-cf709f84e5a7
+   Joint=186   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=1.75   Z=0   SpecialJt=Yes   GUID=65997d02-aea1-44f4-be20-19399b046469
+   Joint=187   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=1.75   Z=0   SpecialJt=Yes   GUID=883b6478-3b0f-414f-99a9-2e2b28ae6931
+   Joint=188   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=1.75   Z=0   SpecialJt=Yes   GUID=b7155557-bc4c-4a4a-89d0-b76233899c32
+   Joint=189   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=1.75   Z=0   SpecialJt=Yes   GUID=cf34262b-512e-4578-b174-3bdbb6e1d4b9
+   Joint=190   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=1.75   Z=0   SpecialJt=Yes   GUID=ace2b17c-8576-46f7-8f50-ce08146c6dc0
+   Joint=191   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=1.75   Z=0   SpecialJt=Yes   GUID=fa4e8c33-b7ee-4749-b514-b4b5c81c9023
+   Joint=192   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=1.75   Z=0   SpecialJt=Yes   GUID=2b03d65c-0c07-4d9c-aad0-e805600bc807
+   Joint=193   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=1.75   Z=0   SpecialJt=Yes   GUID=da0cfd36-b22a-4ee9-a988-fc693a91fa7e
+   Joint=194   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=1.75   Z=0   SpecialJt=Yes   GUID=9d4566c0-9fb4-4180-9295-e090ae76bd23
+   Joint=195   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=1.75   Z=0   SpecialJt=Yes   GUID=5c7cd966-f79d-411c-9a71-8919f561bb62
+   Joint=196   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=1.75   Z=0   SpecialJt=Yes   GUID=a2217768-d64b-4136-ad61-dcc80044240e
+   Joint=197   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=1.75   Z=0   SpecialJt=Yes   GUID=01902abe-2393-4575-9ef5-1e4d1369769a
+   Joint=198   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=1.75   Z=0   SpecialJt=Yes   GUID=4f9e9fea-eca1-4e51-834f-cebc3ce133c5
+   Joint=199   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=1.75   Z=0   SpecialJt=Yes   GUID=4a43de8e-4f2a-4032-9a3a-082ae5a8ac61
+   Joint=200   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=1.75   Z=0   SpecialJt=Yes   GUID=27d02cad-fc15-4233-a097-dc857b02e4d5
+   Joint=201   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=2   Z=0   SpecialJt=Yes   GUID=08a6ef99-a959-4275-ab98-32ae3e130cee
+   Joint=202   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=2   Z=0   SpecialJt=Yes   GUID=d4daa518-f7af-436a-823a-3ca4ad96a56f
+   Joint=203   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=2   Z=0   SpecialJt=Yes   GUID=bf440196-c2dc-4e91-96e2-73f7c7e705af
+   Joint=204   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=2   Z=0   SpecialJt=Yes   GUID=0d8cdc9b-4d12-44f4-9129-d3bd7c6ab959
+   Joint=205   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=2   Z=0   SpecialJt=Yes   GUID=ca9b0276-f666-40f7-b9f6-2a711c1b8ecb
+   Joint=206   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=2   Z=0   SpecialJt=Yes   GUID=34902a39-8fc0-4628-bffb-f25eef34a161
+   Joint=207   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=2   Z=0   SpecialJt=Yes   GUID=8fe5b523-a31f-4205-a081-d8ac910def3c
+   Joint=208   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=2   Z=0   SpecialJt=Yes   GUID=41f0c3e1-57ff-41ae-9c04-6effbbb9b28b
+   Joint=209   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=2   Z=0   SpecialJt=Yes   GUID=ec33eb76-4b11-4318-abae-0e268ac63966
+   Joint=210   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=2   Z=0   SpecialJt=Yes   GUID=fd4b3775-ea7c-4c57-99be-fb0b31553802
+   Joint=211   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=2   Z=0   SpecialJt=Yes   GUID=fefcb927-5227-4a36-9297-205885592482
+   Joint=212   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=2   Z=0   SpecialJt=Yes   GUID=666179f2-dd6c-4855-b84e-a588b8fb1a06
+   Joint=213   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=2   Z=0   SpecialJt=Yes   GUID=242e93aa-9d4f-4a46-9b85-3918ff334fe1
+   Joint=214   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=2   Z=0   SpecialJt=Yes   GUID=81248278-b932-4c36-8c1d-9633b92f1ad4
+   Joint=215   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=2   Z=0   SpecialJt=Yes   GUID=75b569a9-11c8-4b60-aaf4-18101cc5e7ec
+   Joint=216   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=2   Z=0   SpecialJt=Yes   GUID=a9d25e08-c95b-42bc-9e54-132c2e296127
+   Joint=217   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=2   Z=0   SpecialJt=Yes   GUID=dea616a5-3cc5-41cb-8cec-ca3b8d5f1e2b
+   Joint=218   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=2   Z=0   SpecialJt=Yes   GUID=da80d1f1-838b-4863-8895-a249b01b7497
+   Joint=219   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=2   Z=0   SpecialJt=Yes   GUID=83965135-b7f5-47ae-955b-2feb3bad95d6
+   Joint=220   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=2   Z=0   SpecialJt=Yes   GUID=8272338d-8a07-46d3-b5fa-24b0bd138437
+   Joint=221   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=2   Z=0   SpecialJt=Yes   GUID=6f327118-0093-4dee-8674-c5178740d12b
+   Joint=222   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=2   Z=0   SpecialJt=Yes   GUID=c8040cad-256a-41ec-8296-941b3908b622
+   Joint=223   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=2   Z=0   SpecialJt=Yes   GUID=447c4877-b580-49b5-b19f-329749ec6de5
+   Joint=224   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=2   Z=0   SpecialJt=Yes   GUID=8da5f13b-5cfc-41fc-ac3b-c8adcadf8c59
+   Joint=225   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=2   Z=0   SpecialJt=Yes   GUID=6dbfe0b3-e119-4469-8c53-640d8efc05b7
+   Joint=226   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=2.25   Z=0   SpecialJt=Yes   GUID=ab53eed5-0661-4e81-a8e1-ae93c4054b84
+   Joint=227   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=2.25   Z=0   SpecialJt=Yes   GUID=3bd49253-b4a6-4582-9c09-7e5a401012f4
+   Joint=228   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=2.25   Z=0   SpecialJt=Yes   GUID=5f5038f8-6b2c-4c3a-b2c2-3baa6b911dec
+   Joint=229   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=2.25   Z=0   SpecialJt=Yes   GUID=0d00889d-9608-4ee5-a809-a89b13d6da8b
+   Joint=230   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=2.25   Z=0   SpecialJt=Yes   GUID=b41c760e-cf11-4e70-b933-64493727f060
+   Joint=231   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=2.25   Z=0   SpecialJt=Yes   GUID=600ecc22-28bb-40f8-97c1-320546329126
+   Joint=232   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=2.25   Z=0   SpecialJt=Yes   GUID=d0d3d8b5-16ed-4ae2-ac12-a62ba38a522c
+   Joint=233   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=2.25   Z=0   SpecialJt=Yes   GUID=ed4ed28f-891e-45fd-b2ac-eeb4288319ff
+   Joint=234   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=2.25   Z=0   SpecialJt=Yes   GUID=3eb5d5e5-2b5c-43e6-80bd-94ca98b2d956
+   Joint=235   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=2.25   Z=0   SpecialJt=Yes   GUID=c72a4ff4-9e36-4508-bf90-198f1b5a1a36
+   Joint=236   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=2.25   Z=0   SpecialJt=Yes   GUID=d72c1514-9a01-4b70-8a4a-19ffc95c84ec
+   Joint=237   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=2.25   Z=0   SpecialJt=Yes   GUID=fbb9c3f7-460f-4251-95a5-c350340a52c3
+   Joint=238   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=2.25   Z=0   SpecialJt=Yes   GUID=ec1c2dea-6dd1-4ac2-8f64-769b24324bc9
+   Joint=239   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=2.25   Z=0   SpecialJt=Yes   GUID=644d935d-f48d-4721-bf5b-83a24a3078e6
+   Joint=240   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=2.25   Z=0   SpecialJt=Yes   GUID=4892984d-39f1-4696-be85-99be6b59d15e
+   Joint=241   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=2.25   Z=0   SpecialJt=Yes   GUID=bceda05c-e8f4-4d95-99bf-9437a0cc29b7
+   Joint=242   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=2.25   Z=0   SpecialJt=Yes   GUID=6ea6be69-0370-479b-827a-c943a7af18a1
+   Joint=243   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=2.25   Z=0   SpecialJt=Yes   GUID=718ce21a-f0f4-488d-b9c2-a09e27c7134c
+   Joint=244   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=2.25   Z=0   SpecialJt=Yes   GUID=df95f9a3-bc68-45eb-b615-814a03b91826
+   Joint=245   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=2.25   Z=0   SpecialJt=Yes   GUID=2425fcb4-405d-4807-afdf-c86a7e5f0af7
+   Joint=246   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=2.25   Z=0   SpecialJt=Yes   GUID=3726fa43-f024-49eb-80f6-3acb347c3f29
+   Joint=247   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=2.25   Z=0   SpecialJt=Yes   GUID=53087f11-4884-4309-a1a7-9cf1898a2de7
+   Joint=248   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=2.25   Z=0   SpecialJt=Yes   GUID=a00079bc-1944-4642-8ee6-7c3f62a4f2c7
+   Joint=249   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=2.25   Z=0   SpecialJt=Yes   GUID=a6e6f6d0-e566-4d0a-84c7-d8754d2d1554
+   Joint=250   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=2.25   Z=0   SpecialJt=Yes   GUID=33bab9e6-90da-4f4b-bc55-27217b5c590b
+   Joint=251   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=2.5   Z=0   SpecialJt=Yes   GUID=840aee9d-4101-43b0-9c29-1dd791604064
+   Joint=252   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=2.5   Z=0   SpecialJt=Yes   GUID=70359f32-0c5c-47b4-a50c-43110720f9ff
+   Joint=253   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=2.5   Z=0   SpecialJt=Yes   GUID=ff18ec56-4caa-4219-8f9e-0aa9a1b7d889
+   Joint=254   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=2.5   Z=0   SpecialJt=Yes   GUID=092d8696-7e46-4433-afd8-5f06d381223c
+   Joint=255   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=2.5   Z=0   SpecialJt=Yes   GUID=85f22c78-e259-43a1-ab78-b816e7acfdeb
+   Joint=256   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=2.5   Z=0   SpecialJt=Yes   GUID=03dae227-4954-4855-8b69-315d1d1ada41
+   Joint=257   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=2.5   Z=0   SpecialJt=Yes   GUID=caa328a8-f20d-47fd-9b81-4cfe5c7811a3
+   Joint=258   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=2.5   Z=0   SpecialJt=Yes   GUID=a2c76263-31b8-4703-ba01-20fe99b392c9
+   Joint=259   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=2.5   Z=0   SpecialJt=Yes   GUID=21115e39-f506-42a7-b4ba-6d940fedd131
+   Joint=260   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=2.5   Z=0   SpecialJt=Yes   GUID=91a25103-0800-4b51-914c-062abff57088
+   Joint=261   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=2.5   Z=0   SpecialJt=Yes   GUID=c922a75d-5c63-4663-9d46-fe804fb1fbbb
+   Joint=262   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=2.5   Z=0   SpecialJt=Yes   GUID=a3dd09a4-ea33-4dfa-bb05-32498b261778
+   Joint=263   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=2.5   Z=0   SpecialJt=Yes   GUID=82b443bf-cf30-4a84-9a96-27e7110e7292
+   Joint=264   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=2.5   Z=0   SpecialJt=Yes   GUID=83f5e8cd-a21f-47df-a3a9-d7e59c8145ab
+   Joint=265   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=2.5   Z=0   SpecialJt=Yes   GUID=09071388-0396-4458-a3dc-8732861b3a47
+   Joint=266   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=2.5   Z=0   SpecialJt=Yes   GUID=7bb471a0-2af7-41b4-a747-aa2807a50348
+   Joint=267   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=2.5   Z=0   SpecialJt=Yes   GUID=bf1b8991-8a9e-4f9c-9bb4-e48507982043
+   Joint=268   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=2.5   Z=0   SpecialJt=Yes   GUID=344424da-772c-4122-98ea-56e94a34e057
+   Joint=269   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=2.5   Z=0   SpecialJt=Yes   GUID=ac7bea3c-05f2-4873-8dca-b4e888f83b91
+   Joint=270   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=2.5   Z=0   SpecialJt=Yes   GUID=dfc66c6c-93a9-4cda-bc32-7a50ed1426fe
+   Joint=271   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=2.5   Z=0   SpecialJt=Yes   GUID=8d537522-1fea-4e0f-a47f-1bfb487fa3cd
+   Joint=272   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=2.5   Z=0   SpecialJt=Yes   GUID=dba47f80-eb0d-4a51-a189-a1fd5880f222
+   Joint=273   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=2.5   Z=0   SpecialJt=Yes   GUID=fb299fe1-106a-44ef-a384-3a55810feafe
+   Joint=274   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=2.5   Z=0   SpecialJt=Yes   GUID=46271d33-9a4a-43bc-a4d3-031b730fd865
+   Joint=275   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=2.5   Z=0   SpecialJt=Yes   GUID=e5de3781-8715-470c-ab7f-6e820cb74cf5
+   Joint=276   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=2.75   Z=0   SpecialJt=Yes   GUID=20304459-f178-4ddb-9e2e-888a9dc04e28
+   Joint=277   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=2.75   Z=0   SpecialJt=Yes   GUID=839e2ff4-e8d5-4aff-8720-94f9cec49c5f
+   Joint=278   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=2.75   Z=0   SpecialJt=Yes   GUID=4bea1c9a-5914-406b-9da7-bfcf260f1490
+   Joint=279   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=2.75   Z=0   SpecialJt=Yes   GUID=1b46f6e4-d050-4cc5-9e3b-0ccf93246902
+   Joint=280   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=2.75   Z=0   SpecialJt=Yes   GUID=4a53b519-dfad-493b-9d5c-c1211b907818
+   Joint=281   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=2.75   Z=0   SpecialJt=Yes   GUID=ec237adc-8688-4464-ba5e-8fada9b7c3e5
+   Joint=282   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=2.75   Z=0   SpecialJt=Yes   GUID=b9b3f3d8-f8d0-4dbd-8c2d-40921b2bfceb
+   Joint=283   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=2.75   Z=0   SpecialJt=Yes   GUID=61d5d06f-c7d1-4ae7-9b3b-93fddc5ef4d7
+   Joint=284   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=2.75   Z=0   SpecialJt=Yes   GUID=98c067a5-606e-4933-bc66-0229acc79dae
+   Joint=285   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=2.75   Z=0   SpecialJt=Yes   GUID=3a2f935f-eba6-4cd8-9f32-6d6154dd9d96
+   Joint=286   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=2.75   Z=0   SpecialJt=Yes   GUID=c62e60ec-80dd-481d-8693-fe72e68e2354
+   Joint=287   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=2.75   Z=0   SpecialJt=Yes   GUID=6d00b10c-c5d8-4cef-b8f1-27aacb3af26e
+   Joint=288   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=2.75   Z=0   SpecialJt=Yes   GUID=5705dcd7-40e2-4169-b8b8-bccbdff5c648
+   Joint=289   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=2.75   Z=0   SpecialJt=Yes   GUID=8b7da39b-4b4a-455e-be30-b3b27cd0ddd6
+   Joint=290   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=2.75   Z=0   SpecialJt=Yes   GUID=787d05f8-ae42-465d-8df7-46b58fee54a8
+   Joint=291   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=2.75   Z=0   SpecialJt=Yes   GUID=6fbb6448-571b-4b24-946c-0259c642b83f
+   Joint=292   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=2.75   Z=0   SpecialJt=Yes   GUID=5764bad2-ad81-4992-803e-ce6d73b0b665
+   Joint=293   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=2.75   Z=0   SpecialJt=Yes   GUID=ab629d08-da9b-4705-8bd0-a8fcc27efab8
+   Joint=294   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=2.75   Z=0   SpecialJt=Yes   GUID=2d033cab-4b7f-4c0f-bd83-c4ad8b0aa5e2
+   Joint=295   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=2.75   Z=0   SpecialJt=Yes   GUID=77a7f87b-e12b-477f-8183-0227c1957c99
+   Joint=296   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=2.75   Z=0   SpecialJt=Yes   GUID=729f1084-7c5b-44b6-9892-5c7821621700
+   Joint=297   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=2.75   Z=0   SpecialJt=Yes   GUID=2a0f2e23-49ac-40cd-83a5-8619a83dcfd5
+   Joint=298   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=2.75   Z=0   SpecialJt=Yes   GUID=1f9fa9fd-8daa-4ea6-a66d-38d05a2f1f78
+   Joint=299   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=2.75   Z=0   SpecialJt=Yes   GUID=cf7432fc-5ae8-40d2-bdc8-2d1753208dd4
+   Joint=300   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=2.75   Z=0   SpecialJt=Yes   GUID=922eee7d-f0c0-4263-be37-7f6639bdd7be
+   Joint=301   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=3   Z=0   SpecialJt=Yes   GUID=5901d9b5-c70e-493e-94d3-d8c3d790b0a9
+   Joint=302   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=3   Z=0   SpecialJt=Yes   GUID=72a1155a-a9b6-4d12-a2b6-fbcd4d21676b
+   Joint=303   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=3   Z=0   SpecialJt=Yes   GUID=64ea2f24-b940-490a-8a4e-aa23baf39e6b
+   Joint=304   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=3   Z=0   SpecialJt=Yes   GUID=617b9c1c-fde8-4a30-a4ab-52ef5f231fe6
+   Joint=305   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=3   Z=0   SpecialJt=Yes   GUID=3b1f6208-09df-4973-9ae4-46ddee01abc1
+   Joint=306   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=3   Z=0   SpecialJt=Yes   GUID=e28d85ae-a9bb-4bec-9ca2-760350c6f45f
+   Joint=307   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=3   Z=0   SpecialJt=Yes   GUID=4d599a00-6fb5-46af-bc49-c51ef85854a2
+   Joint=308   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=3   Z=0   SpecialJt=Yes   GUID=e6720524-318f-48de-a45c-86a00f4398d4
+   Joint=309   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=3   Z=0   SpecialJt=Yes   GUID=f9799111-c1cb-4516-97c7-d55a570e2022
+   Joint=310   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=3   Z=0   SpecialJt=Yes   GUID=33361dc3-2c79-43e0-b8e4-1f3db3d1c71f
+   Joint=311   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=3   Z=0   SpecialJt=Yes   GUID=d0382f33-5425-46f7-a5de-3fef04706e2d
+   Joint=312   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=3   Z=0   SpecialJt=Yes   GUID=057d4ea6-739a-43a9-8143-7b8a684608bc
+   Joint=313   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=3   Z=0   SpecialJt=Yes   GUID=08a30d92-6b4c-486e-b58d-38dd30c65a18
+   Joint=314   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=3   Z=0   SpecialJt=Yes   GUID=1b8ba525-95d3-4f13-a90c-f0fbe1411041
+   Joint=315   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=3   Z=0   SpecialJt=Yes   GUID=541066d8-c9aa-44e4-9ec0-d9ef0cff6a3f
+   Joint=316   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=3   Z=0   SpecialJt=Yes   GUID=cf1a2f98-e4e3-4e5d-8d4a-429370708ebe
+   Joint=317   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=3   Z=0   SpecialJt=Yes   GUID=951d8920-4419-438e-8055-23a25785e4bc
+   Joint=318   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=3   Z=0   SpecialJt=Yes   GUID=82c67357-2064-4175-81d2-e9ef5612e357
+   Joint=319   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=3   Z=0   SpecialJt=Yes   GUID=4e26de52-d5aa-4dbd-ab7c-06eed6d81567
+   Joint=320   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=3   Z=0   SpecialJt=Yes   GUID=5249dff1-2ddc-4bae-8e46-cfce7562566f
+   Joint=321   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=3   Z=0   SpecialJt=Yes   GUID=378e684a-bc65-44b4-988f-dd32fd4cd009
+   Joint=322   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=3   Z=0   SpecialJt=Yes   GUID=e54cadd4-2282-4d9c-94d8-6d8e1c9ad6c1
+   Joint=323   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=3   Z=0   SpecialJt=Yes   GUID=caea1041-b846-4428-8fea-6a965a1400e8
+   Joint=324   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=3   Z=0   SpecialJt=Yes   GUID=71c49943-eb5d-47a2-b849-1c0b4a2298df
+   Joint=325   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=3   Z=0   SpecialJt=Yes   GUID=cf845eb1-61db-4d0b-86e5-b391c4f71424
+   Joint=326   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=3.25   Z=0   SpecialJt=Yes   GUID=88cad520-1d95-4d78-8fab-1ee23c973621
+   Joint=327   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=3.25   Z=0   SpecialJt=Yes   GUID=d9441ef8-7680-47f0-94d7-c9cd0f272c02
+   Joint=328   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=3.25   Z=0   SpecialJt=Yes   GUID=6b5ed8f7-fb6b-403a-921c-db461d28e08a
+   Joint=329   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=3.25   Z=0   SpecialJt=Yes   GUID=78b1fbb8-fa63-43d2-af60-a2f640e3fcaa
+   Joint=330   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=3.25   Z=0   SpecialJt=Yes   GUID=81e3b283-0222-486a-9193-519e9811af2f
+   Joint=331   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=3.25   Z=0   SpecialJt=Yes   GUID=9a523d62-7c82-4d39-b13d-0ba90a83e122
+   Joint=332   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=3.25   Z=0   SpecialJt=Yes   GUID=8ca90069-cde2-463b-a2e0-8856dcf79524
+   Joint=333   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=3.25   Z=0   SpecialJt=Yes   GUID=536e2e9e-455c-4fac-ac80-9add633ee442
+   Joint=334   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=3.25   Z=0   SpecialJt=Yes   GUID=ccfbef93-bfc2-4c8d-bab6-e29a14516044
+   Joint=335   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=3.25   Z=0   SpecialJt=Yes   GUID=b7f4f4ce-bbc7-4955-887f-1a67885b9f98
+   Joint=336   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=3.25   Z=0   SpecialJt=Yes   GUID=af205da8-2bf6-4302-8828-0fb198a780f5
+   Joint=337   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=3.25   Z=0   SpecialJt=Yes   GUID=ec66c105-a667-444e-84ab-c8c75a9ac942
+   Joint=338   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=3.25   Z=0   SpecialJt=Yes   GUID=a03d48d9-3f2e-435a-b2b8-2a762e6e5efb
+   Joint=339   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=3.25   Z=0   SpecialJt=Yes   GUID=ded40c15-f92b-43e9-96d1-68ccb94f46fb
+   Joint=340   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=3.25   Z=0   SpecialJt=Yes   GUID=d56c69bb-6272-413c-8ae1-9c421a55cd42
+   Joint=341   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=3.25   Z=0   SpecialJt=Yes   GUID=2bddfa42-95b3-4f8b-aa15-72c7e5279c6c
+   Joint=342   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=3.25   Z=0   SpecialJt=Yes   GUID=39c416c1-5fd2-41d0-895a-b8a9c66b3fe1
+   Joint=343   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=3.25   Z=0   SpecialJt=Yes   GUID=b596686a-e6a7-462c-97c7-9999f60e35d7
+   Joint=344   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=3.25   Z=0   SpecialJt=Yes   GUID=8c26685a-c407-4bd4-93d1-9746bef86a09
+   Joint=345   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=3.25   Z=0   SpecialJt=Yes   GUID=00a98e93-d25a-41e7-a6bf-a75c9d463b9c
+   Joint=346   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=3.25   Z=0   SpecialJt=Yes   GUID=19714725-1b7b-4367-b096-a5761c360e71
+   Joint=347   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=3.25   Z=0   SpecialJt=Yes   GUID=4e3fe8e8-6f85-4cdd-a169-381d58936e5d
+   Joint=348   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=3.25   Z=0   SpecialJt=Yes   GUID=6dc0d92c-1cb8-4b50-b031-f9d2f60f1e16
+   Joint=349   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=3.25   Z=0   SpecialJt=Yes   GUID=9dc57f0b-f51b-4233-8a3b-cd6f6b3e59be
+   Joint=350   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=3.25   Z=0   SpecialJt=Yes   GUID=2a0e48d0-08c7-481c-a44a-33d195a3642d
+   Joint=351   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=3.5   Z=0   SpecialJt=Yes   GUID=5736c365-2adf-4980-9984-f177ecce4d2a
+   Joint=352   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=3.5   Z=0   SpecialJt=Yes   GUID=0d9f0ad9-563b-4255-a1c1-135872db5dbd
+   Joint=353   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=3.5   Z=0   SpecialJt=Yes   GUID=a474ff2c-0a64-4f5d-8778-04889bf5a467
+   Joint=354   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=3.5   Z=0   SpecialJt=Yes   GUID=754e2d60-fdfc-4f65-a4e2-13904081b6b5
+   Joint=355   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=3.5   Z=0   SpecialJt=Yes   GUID=6046e730-8498-45b2-9a9b-e29fdfeb949a
+   Joint=356   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=3.5   Z=0   SpecialJt=Yes   GUID=3498a4a5-08cc-4bac-a420-f4ffe35d94bf
+   Joint=357   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=3.5   Z=0   SpecialJt=Yes   GUID=4957b81f-379e-4a24-8f13-8700f2c27824
+   Joint=358   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=3.5   Z=0   SpecialJt=Yes   GUID=f678f80d-775f-4134-bcfe-9ae6ab286cca
+   Joint=359   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=3.5   Z=0   SpecialJt=Yes   GUID=de9da5c1-b82c-461a-b6b6-14c46c89136c
+   Joint=360   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=3.5   Z=0   SpecialJt=Yes   GUID=f5c3e31c-34c2-4cc5-9732-c1302dc44d38
+   Joint=361   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=3.5   Z=0   SpecialJt=Yes   GUID=49f4f797-7cfe-49dc-804e-2ab1dce6d753
+   Joint=362   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=3.5   Z=0   SpecialJt=Yes   GUID=a4a5bcef-e701-444b-a197-6b9dec4a26b6
+   Joint=363   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=3.5   Z=0   SpecialJt=Yes   GUID=581cd781-0fdb-4165-b0bd-59445843b2cc
+   Joint=364   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=3.5   Z=0   SpecialJt=Yes   GUID=2ee74e81-9104-44ab-b08d-1842d988f4c2
+   Joint=365   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=3.5   Z=0   SpecialJt=Yes   GUID=db1f32b3-cd52-490d-96fa-3e0eb9a32224
+   Joint=366   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=3.5   Z=0   SpecialJt=Yes   GUID=d9af18fa-632b-4493-bbd8-7326d0bd4bf8
+   Joint=367   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=3.5   Z=0   SpecialJt=Yes   GUID=f36fc181-6a81-482b-ad51-712e89254809
+   Joint=368   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=3.5   Z=0   SpecialJt=Yes   GUID=33b63e08-ad87-435f-8bbe-94aa2c700aba
+   Joint=369   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=3.5   Z=0   SpecialJt=Yes   GUID=fd431e71-47e6-496e-b83f-2c127b733201
+   Joint=370   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=3.5   Z=0   SpecialJt=Yes   GUID=f512a8de-3799-4b77-bc6e-7048b88c52e3
+   Joint=371   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=3.5   Z=0   SpecialJt=Yes   GUID=ae3ee3bd-65a7-4b87-be54-9d7746ba6e91
+   Joint=372   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=3.5   Z=0   SpecialJt=Yes   GUID=fd5b7b78-a934-4be6-b1aa-7f890f2cbf91
+   Joint=373   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=3.5   Z=0   SpecialJt=Yes   GUID=c86d788c-f91a-40f8-b04d-9613fcb579ab
+   Joint=374   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=3.5   Z=0   SpecialJt=Yes   GUID=9310d8e5-0f14-412c-bb5b-670ef3c0c90a
+   Joint=375   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=3.5   Z=0   SpecialJt=Yes   GUID=11b7159f-a818-4312-a7c0-86395c098e7f
+   Joint=376   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=3.75   Z=0   SpecialJt=Yes   GUID=cd53adad-88a4-43e9-87d4-66ce197cc645
+   Joint=377   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=3.75   Z=0   SpecialJt=Yes   GUID=b6bbcc00-7f3d-4f23-814f-8531d993f4e2
+   Joint=378   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=3.75   Z=0   SpecialJt=Yes   GUID=5d2bd746-c1c8-46ee-8201-18bcb6738a4f
+   Joint=379   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=3.75   Z=0   SpecialJt=Yes   GUID=a8a2bbbb-18ba-435e-b9a3-35e723a992c4
+   Joint=380   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=3.75   Z=0   SpecialJt=Yes   GUID=00c94581-4731-485e-b260-2c51f60e3311
+   Joint=381   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=3.75   Z=0   SpecialJt=Yes   GUID=7aedc14b-1668-4560-b2a2-5bf31b15a589
+   Joint=382   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=3.75   Z=0   SpecialJt=Yes   GUID=c809d1ba-19a7-4405-87e5-8c2e70c0caf9
+   Joint=383   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=3.75   Z=0   SpecialJt=Yes   GUID=74c3e1ba-0527-499b-8e24-8d92d5d30405
+   Joint=384   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=3.75   Z=0   SpecialJt=Yes   GUID=ae598fd1-a964-466e-a79d-a7452f778dfc
+   Joint=385   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=3.75   Z=0   SpecialJt=Yes   GUID=bb83af2e-56a9-493e-86d4-8681294c7a31
+   Joint=386   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=3.75   Z=0   SpecialJt=Yes   GUID=bce859c5-bcdf-4280-a8b8-592b488e9bd5
+   Joint=387   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=3.75   Z=0   SpecialJt=Yes   GUID=cb08f83d-74d6-43d3-aa7b-46b96e120ef0
+   Joint=388   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=3.75   Z=0   SpecialJt=Yes   GUID=8d2410ac-c7ed-4647-ac51-cad061301b4f
+   Joint=389   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=3.75   Z=0   SpecialJt=Yes   GUID=0df7701a-cf02-492b-b6d6-1cc1b16b3fbd
+   Joint=390   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=3.75   Z=0   SpecialJt=Yes   GUID=8c2f4f37-94c9-4081-aefa-79ed4992ddda
+   Joint=391   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=3.75   Z=0   SpecialJt=Yes   GUID=dc81c0cb-6e7c-4cc1-8f23-5f7732cbe5c3
+   Joint=392   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=3.75   Z=0   SpecialJt=Yes   GUID=a6018b3f-5d70-436b-bba5-809a387242c2
+   Joint=393   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=3.75   Z=0   SpecialJt=Yes   GUID=f57a145b-02e1-47e4-a95c-8a6c7bcb8d93
+   Joint=394   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=3.75   Z=0   SpecialJt=Yes   GUID=2e6f3b9a-588e-4ae0-abea-14cd0f7ec4d3
+   Joint=395   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=3.75   Z=0   SpecialJt=Yes   GUID=cec2600f-ffb5-47f5-88fd-c7a03406186d
+   Joint=396   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=3.75   Z=0   SpecialJt=Yes   GUID=ac9c1868-d937-4e30-9422-eb34fa368db7
+   Joint=397   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=3.75   Z=0   SpecialJt=Yes   GUID=d6cd8bbc-5b07-4353-99a6-55be90afd74e
+   Joint=398   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=3.75   Z=0   SpecialJt=Yes   GUID=f1d5dc6e-b385-47cc-98e0-341ffa89f8f9
+   Joint=399   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=3.75   Z=0   SpecialJt=Yes   GUID=8694fea0-6208-4cea-99f1-9bcb36c6fa8c
+   Joint=400   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=3.75   Z=0   SpecialJt=Yes   GUID=b1807fdc-472d-466f-8d78-aa65e5d09f8d
+   Joint=401   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0   Y=4   Z=0   SpecialJt=Yes   GUID=58001914-d51a-415b-841a-35ed48f70c8e
+   Joint=402   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.25   Y=4   Z=0   SpecialJt=Yes   GUID=ed1f7b42-b727-4fea-be89-cf578a60b6d1
+   Joint=403   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.5   Y=4   Z=0   SpecialJt=Yes   GUID=dc7b564b-ad7e-4f3e-9d74-5cfddf47205c
+   Joint=404   CoordSys=GLOBAL   CoordType=Cartesian   XorR=0.75   Y=4   Z=0   SpecialJt=Yes   GUID=8f3f69a2-247e-4593-a8a2-1bbc24a15676
+   Joint=405   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1   Y=4   Z=0   SpecialJt=Yes   GUID=b6bf3469-1388-42fd-afe8-1f7feb4a7a8a
+   Joint=406   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.25   Y=4   Z=0   SpecialJt=Yes   GUID=9e8387de-0f70-4955-8b33-d50635617ca5
+   Joint=407   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.5   Y=4   Z=0   SpecialJt=Yes   GUID=bd92b77d-91e5-4a3f-8067-2c9cd937ebf9
+   Joint=408   CoordSys=GLOBAL   CoordType=Cartesian   XorR=1.75   Y=4   Z=0   SpecialJt=Yes   GUID=371b4683-a75e-47a9-b945-be3f1ff4781c
+   Joint=409   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2   Y=4   Z=0   SpecialJt=Yes   GUID=a7ba47c8-82cd-4418-894d-9184155f5a7e
+   Joint=410   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.25   Y=4   Z=0   SpecialJt=Yes   GUID=8fdf7797-da2e-400c-ba57-0c0c280a795d
+   Joint=411   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.5   Y=4   Z=0   SpecialJt=Yes   GUID=d28f7384-3418-44e6-b52c-05e39394ce0b
+   Joint=412   CoordSys=GLOBAL   CoordType=Cartesian   XorR=2.75   Y=4   Z=0   SpecialJt=Yes   GUID=822ade9a-4ef6-4fae-81b2-37353c46615e
+   Joint=413   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3   Y=4   Z=0   SpecialJt=Yes   GUID=e91f79c6-1f05-4b41-b03f-128691446d81
+   Joint=414   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.25   Y=4   Z=0   SpecialJt=Yes   GUID=8fa07acd-ab02-4402-9c7c-fbd120c90ec9
+   Joint=415   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.5   Y=4   Z=0   SpecialJt=Yes   GUID=e22fb464-6403-4b64-9fe8-7f86652f2a13
+   Joint=416   CoordSys=GLOBAL   CoordType=Cartesian   XorR=3.75   Y=4   Z=0   SpecialJt=Yes   GUID=4451c7a3-e4ae-4177-a330-94780b535a1a
+   Joint=417   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4   Y=4   Z=0   SpecialJt=Yes   GUID=0b4b789e-1720-4108-8dc5-b541b8874a94
+   Joint=418   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.25   Y=4   Z=0   SpecialJt=Yes   GUID=874ef905-8539-486c-8917-6005fae07759
+   Joint=419   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.5   Y=4   Z=0   SpecialJt=Yes   GUID=6ed5c986-0c43-400a-8b0b-62b1c589c49c
+   Joint=420   CoordSys=GLOBAL   CoordType=Cartesian   XorR=4.75   Y=4   Z=0   SpecialJt=Yes   GUID=e24a5a9a-3953-4ba3-a934-176e1c1ffa9d
+   Joint=421   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5   Y=4   Z=0   SpecialJt=Yes   GUID=1c5d8823-6955-477c-a3a9-686aaf21fb7d
+   Joint=422   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.25   Y=4   Z=0   SpecialJt=Yes   GUID=58968bba-e3c5-4056-8874-045ee0406d6d
+   Joint=423   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.5   Y=4   Z=0   SpecialJt=Yes   GUID=4e25e8f4-9784-48e1-91d3-60d6b1fe0aff
+   Joint=424   CoordSys=GLOBAL   CoordType=Cartesian   XorR=5.75   Y=4   Z=0   SpecialJt=Yes   GUID=b6f2465a-6d6d-4158-80a3-90d877d1e5dd
+   Joint=425   CoordSys=GLOBAL   CoordType=Cartesian   XorR=6   Y=4   Z=0   SpecialJt=Yes   GUID=d002ab77-c9ab-4d8b-bfe2-30e6ba5dbe34
+ 
+TABLE:  "JOINT PATTERN DEFINITIONS"
+   Pattern=Default
+ 
+TABLE:  "JOINT RESTRAINT ASSIGNMENTS"
+   Joint=1   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=2   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=3   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=4   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=5   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=6   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=7   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=8   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=9   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=10   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=11   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=12   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=13   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=14   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=15   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=16   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=17   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=18   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=19   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=20   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=21   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=22   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=23   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=24   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=25   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=26   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=50   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=51   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=75   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=76   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=100   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=101   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=125   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=126   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=150   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=151   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=175   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=176   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=200   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=201   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=225   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=226   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=250   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=251   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=275   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=276   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=300   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=301   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=325   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=326   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=350   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=351   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=375   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=376   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=400   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=401   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=402   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=403   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=404   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=405   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=406   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=407   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=408   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=409   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=410   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=411   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=412   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=413   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=414   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=415   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=416   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=417   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=418   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=419   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=420   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=421   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=422   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=423   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=424   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+   Joint=425   U1=No   U2=No   U3=Yes   R1=No   R2=No   R3=No
+ 
+TABLE:  "LOAD CASE DEFINITIONS"
+   Case=DEAD   Type=LinStatic   InitialCond=Zero   DesTypeOpt="Prog Det"   DesignType=Dead   DesActOpt="Prog Det"   DesignAct=Non-Composite   AutoType=None   RunCase=Yes   GUID=543400b3-918e-4982-a4c2-20e9fcf13479
+   Case=MODAL   Type=LinModal   InitialCond=Zero   DesTypeOpt="Prog Det"   DesignType=Other   DesActOpt="Prog Det"   DesignAct=Other   AutoType=None   RunCase=Yes   GUID=e31d849d-bdd8-413c-a102-1091f63f5bb6
+   Case=CARGA   Type=LinStatic   InitialCond=Zero   DesTypeOpt="Prog Det"   DesignType=Other   DesActOpt="Prog Det"   DesignAct=Other   AutoType=None   RunCase=Yes   GUID=b46dc4bb-3003-48ef-b8c8-170b4a4311b5
+ 
+TABLE:  "LOAD PATTERN DEFINITIONS"
+   LoadPat=DEAD   DesignType=Dead   SelfWtMult=1   GUID=f0193c47-28c7-4b9d-86cf-d633d66f94d6
+   LoadPat=CARGA   DesignType=Other   SelfWtMult=0   GUID=4deb0282-8537-4e67-9552-46d4a53f3ad6
+ 
+TABLE:  "MASS SOURCE"
+   MassSource=MSSSRC1   Elements=Yes   Masses=Yes   Loads=No   IsDefault=Yes
+ 
+TABLE:  "MATERIAL PROPERTIES 01 - GENERAL"
+   Material=4000Psi   Type=Concrete   Grade="f'c 4000 psi"   SymType=Isotropic   TempDepend=No   Color=Blue   GUID=79303f3f-5dd5-4816-b04a-bd6493bd7257   Notes="Customary f'c 4000 psi 2/4/2026 7:06:43 AM"
+   Material=A992Fy50   Type=Steel   Grade="Grade 50"   SymType=Isotropic   TempDepend=No   Color=Gray8Dark   Notes="ASTM A992 Grade 50 2/4/2026 7:06:43 AM"
+   Material=CONC   Type=Concrete   SymType=Isotropic   TempDepend=No   Color=Green
+ 
+TABLE:  "MATERIAL PROPERTIES 02 - BASIC MECHANICAL PROPERTIES"
+   Material=4000Psi   UnitWeight=23.5631216161854   UnitMass=2.40276960558926   E1=24855578.0600518   G12=10356490.8583549   U12=0.2   A1=9.89999952793124E-06
+   Material=A992Fy50   UnitWeight=76.9728639422648   UnitMass=7.84904737995992   E1=199947978.795958   G12=76903068.767676   U12=0.3   A1=1.16999994421006E-05
+   Material=CONC   UnitWeight=23.563121614979   UnitMass=2.40276960611018   E1=35000000   G12=15217391.3043478   U12=0.15   A1=1E-05
+ 
+TABLE:  "MATERIAL PROPERTIES 03A - STEEL DATA"
+   Material=A992Fy50   Fy=344737.894475789   Fu=448159.262818526   EffFy=379211.683923368   EffFu=492975.189100378   SSCurveOpt=Simple   SSHysType=Kinematic   SHard=0.015   SMax=0.11   SRup=0.17   FinalSlope=-0.1   CoupModType="Von Mises"
+ 
+TABLE:  "MATERIAL PROPERTIES 03B - CONCRETE DATA"
+   Material=4000Psi   Fc=27579.0315580631   eFc=27579.0315580631   LtWtConc=No   SSCurveOpt=Mander   SSHysType=Takeda   SFc=0.00221914   SCap=0.005   FinalSlope=-0.1   FAngle=0   DAngle=0   CoupModType="Modified Darwin-Pecknold"
+   Material=CONC   Fc=27579.0315580631   eFc=27579.0315580631   LtWtConc=No   SSCurveOpt=Mander   SSHysType=Takeda   SFc=0.00221914221766202   SCap=0.005   FinalSlope=-0.1   FAngle=0   DAngle=0   CoupModType="Modified Darwin-Pecknold"
+ 
+TABLE:  "MATERIAL PROPERTIES 03J - COUPLED NONLINEAR VON MISES DATA"
+   Material=A992Fy50   YieldStress=379211.683923368   LinIsoHard=No   LinKinHard=No   NLIsoSaHard=No
+ 
+TABLE:  "MATERIAL PROPERTIES 06 - DAMPING PARAMETERS"
+   Material=4000Psi   ModalRatio=0   VisMass=0   VisStiff=0   HysMass=0   HysStiff=0
+   Material=A992Fy50   ModalRatio=0   VisMass=0   VisStiff=0   HysMass=0   HysStiff=0
+   Material=CONC   ModalRatio=0   VisMass=0   VisStiff=0   HysMass=0   HysStiff=0
+ 
+TABLE:  "MATERIAL PROPERTIES 09 - ACCEPTANCE CRITERIA"
+   Material=4000Psi   IOTens=0.01   LSTens=0.02   CPTens=0.05   IOComp=-0.003   LSComp=-0.006   CPComp=-0.015   IgnoreTens=Yes
+   Material=A992Fy50   IOTens=0.01   LSTens=0.02   CPTens=0.05   IOComp=-0.005   LSComp=-0.01   CPComp=-0.02
+   Material=CONC   IOTens=0.01   LSTens=0.02   CPTens=0.05   IOComp=-0.003   LSComp=-0.006   CPComp=-0.015   IgnoreTens=Yes
+ 
+TABLE:  "OPTIONS - COLORS - DISPLAY"
+   DeviceType=Screen   Points=Blue   LinesFrame=Blue   LinesFrmDL=Blue   LinesCable=Green   LinesTendon=Green   SpringLinks=Green   Restraints=Green   Releases=Green   Axes=Cyan   Text=Black   ShadowLines=Gray8Dark   GuideLines=Gray8Dark _
+        Highlight=Red   Selection=10504778   AreaFillBot=Red   AreaFillTop=16744703   AreaFillSd=Red   AreaEdge=DarkRed   SolidF1=Red   SolidF2=Blue   SolidF3=Green   SolidF4=Yellow   SolidF5=White   SolidF6=Cyan   SolidEdge=DarkRed _
+        Floor=Gray4   Background=White   BGLowLeft=White   BGLowRight=White   BGUpRight=White   Darkness=0.5
+   DeviceType=Printer   Points=Gray8Dark   LinesFrame=Black   LinesFrmDL=Gray4   LinesCable=Black   LinesTendon=Black   SpringLinks=Gray8Dark   Restraints=Gray8Dark   Releases=Gray4   Axes=Black   Text=Black   ShadowLines=Gray4 _
+        GuideLines=Gray4   Highlight=Black   Selection=Black   AreaFillBot=Gray4   AreaFillTop=Gray8Dark   AreaFillSd=Gray4   AreaEdge=Black   SolidF1=Gray1Light   SolidF2=Gray2   SolidF3=Gray3   SolidF4=Gray4   SolidF5=Gray5 _
+        SolidF6=Gray6   SolidEdge=Black   Floor=Gray4   Background=White   BGLowLeft=White   BGLowRight=White   BGUpRight=White   Darkness=0.5
+   DeviceType="Color Printer"   Points=Blue   LinesFrame=Blue   LinesFrmDL=Blue   LinesCable=Green   LinesTendon=Green   SpringLinks=Green   Restraints=Green   Releases=Green   Axes=Cyan   Text=Black   ShadowLines=Gray8Dark _
+        GuideLines=Gray8Dark   Highlight=Red   Selection=10504778   AreaFillBot=Red   AreaFillTop=16744703   AreaFillSd=Red   AreaEdge=DarkRed   SolidF1=Red   SolidF2=Blue   SolidF3=Green   SolidF4=Yellow   SolidF5=White   SolidF6=Cyan _
+        SolidEdge=DarkRed   Floor=Gray4   Background=White   BGLowLeft=White   BGLowRight=White   BGUpRight=White   Darkness=0.5
+ 
+TABLE:  "OPTIONS - COLORS - OUTPUT"
+   DeviceType=Screen   Contour1=13107400   Contour2=6553828   Contour3=Red   Contour4=16639   Contour5=Orange   Contour6=43775   Contour7=54527   Contour8=Yellow   Contour9=65408   Contour10=Green   Contour11=8453888   Contour12=Cyan _
+        Contour13=16755200   Contour14=16733440   Contour15=Blue   Transpare=0   Ratio1=Cyan   Ratio2=Green   Ratio3=Yellow   Ratio4=Orange   Ratio5=Red   RatioNotD=Gray4   RatioNotC=Red   RatioVal1=0.5   RatioVal2=0.7   RatioVal3=0.9 _
+        RatioVal4=1   DFillPos=Blue   DFillNeg=Red   DFillRPos=Green   DFillRNeg=Green
+   DeviceType=Printer   Contour1=Black   Contour2=3158064   Contour3=4210752   Contour4=5263440   Contour5=6316128   Contour6=7368816   Contour7=Gray8Dark   Contour8=Gray7   Contour9=Gray6   Contour10=Gray5   Contour11=Gray4 _
+        Contour12=Gray3   Contour13=Gray2   Contour14=Gray1Light   Contour15=White   Transpare=0   Ratio1=Gray2   Ratio2=Gray4   Ratio3=Gray8Dark   Ratio4=4210752   Ratio5=Black   RatioNotD=Gray4   RatioNotC=Black   RatioVal1=0.5 _
+        RatioVal2=0.7   RatioVal3=0.9   RatioVal4=1   DFillPos=Gray8Dark   DFillNeg=Gray8Dark   DFillRPos=4210752   DFillRNeg=4210752
+   DeviceType="Color Printer"   Contour1=13107400   Contour2=6553828   Contour3=Red   Contour4=16639   Contour5=Orange   Contour6=43775   Contour7=54527   Contour8=Yellow   Contour9=65408   Contour10=Green   Contour11=8453888 _
+        Contour12=Cyan   Contour13=16755200   Contour14=16733440   Contour15=Blue   Transpare=0   Ratio1=Cyan   Ratio2=Green   Ratio3=Yellow   Ratio4=Orange   Ratio5=Red   RatioNotD=Gray4   RatioNotC=Red   RatioVal1=0.5   RatioVal2=0.7 _
+        RatioVal3=0.9   RatioVal4=1   DFillPos=Blue   DFillNeg=Red   DFillRPos=Green   DFillRNeg=Green
+ 
+TABLE:  "PREFERENCES - ALUMINUM DESIGN - AA 2015"
+   THDesign=Envelopes   SRatioLimit=1   Provision=LRFD   LatFact=1.33333333333333   UseLatFact=No   Bridge=No   PhiTy=0.9   PhiTr=0.75   PhiC=0.9   PhiBo=0.9   PhiBr=0.75   PhiVo=0.9   PhiVr=0.75
+ 
+TABLE:  "PREFERENCES - COLD FORMED DESIGN - AISI-16"
+   THDesign=Envelopes   FrameType="Braced Frame"   SRatioLimit=1   SOMethod="General 2nd Order"   Provision=LRFD   LatFact=1.33333333333333   UseLatFact=No   PhiTy=0.9   PhiTr=0.75   PhiC=0.85   PhiB=0.9   PhiBPipe=0.95   PhiV=0.95
+ 
+TABLE:  "PREFERENCES - CONCRETE DESIGN - ACI 318-19"
+   THDesign=Envelopes   NumCurves=24   NumPoints=11   MinEccen=Yes   BCCDesign=Yes   IgnoreBPu=Yes   CTorsion=Yes   PatLLF=0.75   UFLimit=0.95   SeisCat=D   Rho=1   Sds=0.5   PhiT=0.9   PhiCTied=0.65   PhiCSpiral=0.75   PhiV=0.75 _
+        PhiVSeismic=0.6   PhiVJoint=0.85   TanTheta=1
+ 
+TABLE:  "PREFERENCES - CONCRETE SHELL DESIGN - EUROCODE 2-2004"
+   Country="CEN Default"   GammaS=1.15   GammaC=1.5   AlphaCC=1   AlphaCT=1   CrackCond="Program Determined"   ShrDesMet="Method 1"   CotTheta=1
+ 
+TABLE:  "PREFERENCES - DIMENSIONAL"
+   MergeTol=0.001   FineGrid=0.25   Nudge=0.25   SelectTol=3   SnapTol=12   SLineThick=1   PLineThick=4   MaxFont=8   MinFont=3   AutoZoom=10   ShrinkFact=70   TextFileLen=240
+ 
+TABLE:  "PREFERENCES - STEEL DESIGN - AISC 360-16"
+   THDesign=Envelopes   FrameType=SMF   PatLLF=0.75   SRatioLimit=0.95   MaxIter=1   SDC=D   SeisCode=No   SeisLoad=No   ImpFactor=1   SystemRho=1   SystemSds=0.5   SystemR=8   SystemCd=5.5   Omega0=3   Provision=LRFD _
+        AMethod="Direct Analysis"   SOMethod="General 2nd Order"   SRMethod="Tau-b Fixed"   NLCoeff=0.002   PhiB=0.9   PhiC=0.9   PhiTY=0.9   PhiTF=0.75   PhiV=0.9   PhiVRolledI=1   PhiVT=0.9   PlugWeld=Yes   HSSWelding=ERW   HSSReduceT=No _
+        CheckDefl=No   DLRat=120   SDLAndLLRat=120   LLRat=360   TotalRat=240   NetRat=240
+ 
+TABLE:  "PROGRAM CONTROL"
+   ProgramName=SAP2000   Version=24.1.0   CurrUnits="KN, m, C"   SteelCode="AISC 360-16"   ConcCode="ACI 318-19"   AlumCode="AA 2015"   ColdCode=AISI-16   RegenHinge=Yes
+ 
+TABLE:  "PROJECT INFORMATION"
+   Item="Company Name"
+   Item="Client Name"
+   Item="Project Name"
+   Item="Project Number"
+   Item="Model Name"
+   Item="Model Description"
+   Item="Revision Number"
+   Item="Frame Type"
+   Item=Engineer
+   Item=Checker
+   Item=Supervisor
+   Item="Issue Code"
+   Item="Design Code"
+ 
+TABLE:  "REBAR SIZES"
+   RebarID=#2   Area=3.2258E-05   Diameter=0.00635
+   RebarID=#3   Area=7.09675996154547E-05   Diameter=0.009525
+   RebarID=#4   Area=0.000129032001922727   Diameter=0.0127
+   RebarID=#5   Area=0.000199999601538181   Diameter=0.015875
+   RebarID=#6   Area=0.000283870398461819   Diameter=0.01905
+   RebarID=#7   Area=0.000387096015381813   Diameter=0.022225
+   RebarID=#8   Area=0.000509676413843632   Diameter=0.0254
+   RebarID=#9   Area=0.00064516   Diameter=0.0286512005329132
+   RebarID=#10   Area=0.00081935318769455   Diameter=0.0322579995155334
+   RebarID=#11   Area=0.00100644956308365   Diameter=0.0358139991521835
+   RebarID=#14   Area=0.00145161   Diameter=0.0430021989583969
+   RebarID=#18   Area=0.00258064   Diameter=0.0573277992248535
+   RebarID=10M   Area=0.000100000002655387   Diameter=0.011300000667572
+   RebarID=15M   Area=0.000200000005310774   Diameter=0.0159999999403954
+   RebarID=20M   Area=0.000300000017579794   Diameter=0.0194999997854233
+   RebarID=25M   Area=0.000500000022890568   Diameter=0.0252000016093254
+   RebarID=30M   Area=0.000700000008974075   Diameter=0.0299000008821487
+   RebarID=35M   Area=0.00100000004578114   Diameter=0.0357000011444092
+   RebarID=45M   Area=0.00150000010712624   Diameter=0.0437000003576279
+   RebarID=55M   Area=0.00250000007599831   Diameter=0.0564000033855438
+   RebarID=6d   Area=2.83000004149973E-05   Diameter=0.006000000166893
+   RebarID=8d   Area=5.02999995571375E-05   Diameter=0.00799999997019768
+   RebarID=10d   Area=7.85000013634562E-05   Diameter=0.00999999977350235
+   RebarID=12d   Area=0.000113000009249449   Diameter=0.012000000333786
+   RebarID=14d   Area=0.000154000010818839   Diameter=0.0140000008940697
+   RebarID=16d   Area=0.000201000015431643   Diameter=0.0159999999403954
+   RebarID=20d   Area=0.000314000005453825   Diameter=0.0199999995470047
+   RebarID=25d   Area=0.000491000008711815   Diameter=0.0250000001907349
+   RebarID=26d   Area=0.000531000029001236   Diameter=0.0259999997138977
+   RebarID=28d   Area=0.000616000043275356   Diameter=0.0280000017881393
+   RebarID=N12   Area=0.000113000009249449   Diameter=0.012000000333786
+   RebarID=N16   Area=0.000201000015431643   Diameter=0.0159999999403954
+   RebarID=N20   Area=0.000314000005453825   Diameter=0.0199999995470047
+   RebarID=N24   Area=0.000452000036997795   Diameter=0.024000000667572
+   RebarID=N28   Area=0.000616000043275356   Diameter=0.0280000017881393
+   RebarID=N32   Area=0.00080400006172657   Diameter=0.0319999998807907
+   RebarID=N36   Area=0.00102000001747131   Diameter=0.036000001001358
+ 
+END TABLE DATA

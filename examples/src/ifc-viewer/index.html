@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IFC Viewer - Awatif</title>
+    <link rel="stylesheet" href="/global.css" />
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        font-family: 'Segoe UI', sans-serif;
+      }
+      #container {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+      }
+      #viewer {
+        flex: 1;
+        background: #1a1a2e;
+      }
+      #sidebar {
+        width: 300px;
+        background: #16213e;
+        color: white;
+        padding: 15px;
+        overflow-y: auto;
+      }
+      h2 {
+        color: #4fc3f7;
+        margin-top: 0;
+      }
+      .btn {
+        background: #4fc3f7;
+        color: #1a1a2e;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        cursor: pointer;
+        width: 100%;
+        margin-bottom: 10px;
+        font-weight: bold;
+      }
+      .btn:hover {
+        background: #81d4fa;
+      }
+      #status {
+        color: #aaa;
+        font-size: 12px;
+        margin-top: 10px;
+      }
+      #info {
+        background: #1a1a2e;
+        padding: 10px;
+        border-radius: 5px;
+        margin-top: 15px;
+        font-size: 12px;
+      }
+      #info pre {
+        white-space: pre-wrap;
+        word-break: break-all;
+        margin: 0;
+      }
+      .loading {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        color: white;
+        font-size: 18px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <canvas id="viewer"></canvas>
+      <div id="sidebar">
+        <h2>IFC Viewer</h2>
+        <input type="file" id="fileInput" accept=".ifc" style="display:none" />
+        <button class="btn" id="btnLoad">Cargar archivo IFC</button>
+        <button class="btn" id="btnReset" style="background:#ff5722;">Reset Vista</button>
+        <div id="status">Listo para cargar...</div>
+        <div id="info">
+          <strong>Informacion del modelo:</strong>
+          <pre id="infoContent">Ningun modelo cargado</pre>
+        </div>
+      </div>
+    </div>
+    <div class="loading" id="loading" style="display:none;">Cargando modelo IFC...</div>
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>

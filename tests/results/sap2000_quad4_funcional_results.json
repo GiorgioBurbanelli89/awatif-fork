@@ -1,0 +1,25 @@
+{
+  "software": "SAP2000",
+  "mesh": "4x4",
+  "elementos": 16,
+  "parametros": {
+    "a": 2.0,
+    "b": 2.0,
+    "t": 0.2,
+    "E_MPa": 25000,
+    "nu": 0.2,
+    "q_kN_m2": 10.0
+  },
+  "teorico": {
+    "D_kNm": 17361.111111111117,
+    "w_centro_mm": 0.03743864210876238,
+    "M_centro_kNm_m": 1.916
+  },
+  "sap2000": {
+    "w_max_mm": 0,
+    "w_centro_mm": 0,
+    "M11_max_kNm_m": 0,
+    "M22_max_kNm_m": 0,
+    "V13_max_kN_m": 0
+  }
+}

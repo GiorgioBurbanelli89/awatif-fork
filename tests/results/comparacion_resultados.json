@@ -1,0 +1,55 @@
+{
+  "config": {
+    "Lx": 2.0,
+    "Ly": 2.0,
+    "t": 0.2,
+    "E": 25000000000.0,
+    "nu": 0.2,
+    "rho": 2500,
+    "q": 10000,
+    "mesh": "4x4"
+  },
+  "teorico": {
+    "nombre": "TE\u00d3RICO (Navier)",
+    "D": 17361111.111111116,
+    "w_center": 3.743864250458163e-05,
+    "w_simplified": 3.7416959999999995e-05,
+    "Mx_center": -1768.137267468821,
+    "My_center": -1768.137267468821,
+    "M_simplified": 1916.0,
+    "f11": 146.35030689668181,
+    "T11": 0.006832920416804899
+  },
+  "sap2000": {
+    "nombre": "SAP2000",
+    "status": "OK",
+    "w_max": null,
+    "M11_max": null,
+    "M22_max": null,
+    "f11": 4.500812942425208e-07,
+    "T11": 2221820.8416836853,
+    "frequencies": [
+      4.500812942425208e-07,
+      4.5008129427244254e-07,
+      4.500812942672307e-07,
+      4.500812943406075e-07,
+      4.5008129425424006e-07
+    ]
+  },
+  "etabs": {
+    "nombre": "ETABS",
+    "status": "ERROR",
+    "w_max": null,
+    "M11_max": null,
+    "f11": null,
+    "error": "unsupported operand type(s) for *: 'NoneType' and 'int'"
+  },
+  "opensees": {
+    "nombre": "OpenSees",
+    "status": "ERROR",
+    "w_max": null,
+    "f11": null,
+    "error": "See stderr output"
+  },
+  "timestamp": "2026-02-04T01:36:06.688080"
+}

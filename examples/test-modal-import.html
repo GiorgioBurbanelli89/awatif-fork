@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Test Modal Import</title>
+</head>
+<body>
+  <h1>Test Modal Import</h1>
+  <div id="output"></div>
+
+  <script type="module">
+    const output = document.getElementById('output');
+
+    try {
+      output.innerHTML += '<p>1. Intentando importar awatif-fem...</p>';
+
+      const { modal, ModalOutputs } = await import('awatif-fem');
+
+      output.innerHTML += '<p style="color: green;">✓ awatif-fem importado correctamente</p>';
+      output.innerHTML += '<p>2. Modal function: ' + (typeof modal) + '</p>';
+      output.innerHTML += '<p>3. ModalOutputs: ' + (typeof ModalOutputs) + '</p>';
+
+      // Verificar que modal es una función
+      if (typeof modal === 'function') {
+        output.innerHTML += '<p style="color: green;">✓ modal es una función</p>';
+      } else {
+        output.innerHTML += '<p style="color: red;">✗ modal NO es una función</p>';
+      }
+
+    } catch (error) {
+      output.innerHTML += '<p style="color: red;">✗ Error: ' + error.message + '</p>';
+      output.innerHTML += '<pre>' + error.stack + '</pre>';
+      console.error('Error completo:', error);
+    }
+  </script>
+</body>
+</html>

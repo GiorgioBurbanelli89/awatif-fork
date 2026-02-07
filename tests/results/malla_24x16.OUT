@@ -1,0 +1,47 @@
+
+
+ SAP2000 v24.1.0 Ultimate 64-bit (Analysis Build 9917/64)                       
+ File: C:\Users\j-b-j\Document....5.7\awatif-2.0.0\tests\results\malla_24x16.OUT
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1 TO      26    A   A   -   A   A   A
+      27 TO      49    A   A   A   A   A   A
+      50 TO      51    A   A   -   A   A   A
+      52 TO      74    A   A   A   A   A   A
+      75 TO      76    A   A   -   A   A   A
+      77 TO      99    A   A   A   A   A   A
+     100 TO     101    A   A   -   A   A   A
+     102 TO     124    A   A   A   A   A   A
+     125 TO     126    A   A   -   A   A   A
+     127 TO     149    A   A   A   A   A   A
+     150 TO     151    A   A   -   A   A   A
+     152 TO     174    A   A   A   A   A   A
+     175 TO     176    A   A   -   A   A   A
+     177 TO     199    A   A   A   A   A   A
+     200 TO     201    A   A   -   A   A   A
+     202 TO     224    A   A   A   A   A   A
+     225 TO     226    A   A   -   A   A   A
+     227 TO     249    A   A   A   A   A   A
+     250 TO     251    A   A   -   A   A   A
+     252 TO     274    A   A   A   A   A   A
+     275 TO     276    A   A   -   A   A   A
+     277 TO     299    A   A   A   A   A   A
+     300 TO     301    A   A   -   A   A   A
+     302 TO     324    A   A   A   A   A   A
+     325 TO     326    A   A   -   A   A   A
+     327 TO     349    A   A   A   A   A   A
+     350 TO     351    A   A   -   A   A   A
+     352 TO     374    A   A   A   A   A   A
+     375 TO     376    A   A   -   A   A   A
+     377 TO     399    A   A   A   A   A   A
+     400 TO     425    A   A   -   A   A   A
